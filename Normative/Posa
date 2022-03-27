@@ -2,13 +2,14 @@
 
 ## Posa serramenti
 
-### UNI 11673-1 Posa in opera dei serramenti
+### Guida alla UNI 11673-1 Posa in opera dei serramenti
 
 - #### Parte-1 Requisiti e criteri di verifica della progettazione
 
- - Cap-3 Da un inquadramento terminologico importnante, decidendo di abbattere
+ - **Cap-3** Da un inquadramento terminologico importnante, decidendo di abbattere
  le disugaglianze di vocabolario. Ad esempio il falso telaio ora si chiama **Controtelaio**
 
+ - **Cap-4** definizione e aspetti generali sui requisiti
  - Cap-4.1 Riguardante **prestazioni e definizione giunti di posa**. I giunti di Posa
  devono avere le prestazioni non minori a quelle del serramento (riportate nel DOP).
 
@@ -44,3 +45,18 @@
  del nodo
 
  ![](https://github.com/LorPapa/G-Maietta-Papa/blob/main/Normative/Image/Piani%20funzionali.JPG?raw=true)
+  - **Cap-5** Criteri e requisiti specifici del giunto di posa
+  - Cap-5.1 Isolamento termico, per evitare dispersioni,condensa e muffa.
+ Dipendono da tre fattori:
+
+   1. Posizionamento del serramento **(in mazzetta o filo muro)**
+   2. caratteristiche del controtelaio
+   3. dalle caratteristiche dei materiali di posa (importante risvoltare gli isolanti se ETICS)
+
+   Inoltre specifica l'importanza della ventilazione interna per evitare lo sviluppo di condensa e muffe.
+   **alternativa valida** è la ventilazione meccanica controllata con recupero di calore.
+    - Cap 5.1.1. Analisi delle isoterme (calcolo flusso termico secondo **UNI EN ISO 10211**)
+    e verificare che non sia inferiori alla Temp di rugiada (13,2°C secondo la UNI-EN-ISO 13788)
+    - Cap 5.1.2. Per la formazione di **muffe** la temperatura reale media esterna
+    (Data in tabella dalla normativa) deve essere maggiore della temperatura di formazione della muffa stessa
+    per considerare il fenomeno evitato.
