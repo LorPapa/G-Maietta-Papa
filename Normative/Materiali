@@ -1,7 +1,7 @@
 # **Descrizione Normative Materiali**
 
-## **VETRO**
-### - UNI EN 572 - Vetro per edilizia (prodotti di base in vetro silicato di soda/calce)
+## **<font color="red">VETRO</font>**
+### <font color="teal">- UNI EN 572 - Vetro per edilizia (prodotti di base in vetro silicato di soda/calce)</font>
 - #### Parte 1 (2012 -> aggiornata al 2016): definizioni e proprietà generali fisiche e meccaniche
 La norma specifica e classifica i prodotti di base di vetro e indica la loro composizione chimica,
 le loro principali caratteristiche fisiche e meccaniche e definisce i loro criteri di qualità generali.
@@ -38,13 +38,32 @@ sagomato a "U"(armato e non) fornito in dimensioni per l'utilizzo finale. per qu
 - #### Parte 9 (2004): Valutazione del prodotto/Standard di prodotto
 La norma tratta la valutazione della conformità e il controllo della produzione in fabbrica di prodotti di base di vetro di silicato sodo-calcico per edilizia.
 
-### - UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza
+### <font color="teal">- UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza </font>
 - #### Parte 1 (2021): Vetro stratificato e vetro stratificato di sicurezza. Definizioni e descrizioni delle parti componenti
 La norma ha lo scopo di definire i termini e descrivere le parti che compongono il vetro stratificato e vetro stratificato di sicurezza per l'edilizia.
 
-## **Corrosione**
+## **<font color="red">Giunti</font>**
 
-### BS EN 1670:2007 - Building hardware - Corrosion Resistance - Requirements and test methods
+### <font color="teal">- UNI 11673-1 "Posa in opera dei serramenti"</font>
+Come descritto nel file "Posa" sotto la voce UNI 11673-1 "Posa in opera dei serramenti". Al capitolo 6 vi sono descritti i vari Materiali
+utilizzabili per giuntare il serramento. Tutta la descrizione terminologica dei "piani di posa" è rimandata al file "posa"
+
+ **Cap-6**
+1. **Sigillanti**:
+- PRODOTTI
+
+ secondo il prospetto 4 della norma UNI 116733-1, di questa categoria ne fanno Parte
+i **sigillanti fluidi** tipo silicone neutro-acetico-poliuretanico-polisolfurico-butilico-acrilico o MS polimero. Ovvero quei
+sigillanti a "cartuccia". Le loro prestazioni sono verificate con diverse norme e classificati con la UNI 15651-1 E UNI EN 11600.
+- PROVE:
+ - Proprietà a trazione(e con estensione mantenuta): con misurazione della resistenza ad allungamento (prova secondo UNI EN 8339) parametro importnante
+ per la resistenza alle variazioni geometriche del serramento.
+ - Perdita di Volume (ritiro): durante l'essicazione (prova secondo UNI EN 10563)
+
+
+## **<font color="red">Corrosione</font>**
+
+### <font color="teal">- BS EN 1670:2007 - Building hardware - Corrosion Resistance - Requirements and test methods </font>
 
 Specifica i **requisiti per la resistenza a corrosione** dei componenenti
 di: porte,finestre,persiane e facciate continue.
