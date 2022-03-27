@@ -4,6 +4,9 @@
 
 ### Guida alla UNI 11673-1 Posa in opera dei serramenti
 
+Analisi e studio dei concetti chiave della norma UNI 11673-1, nel PDF è presente uno studio
+delle performance del metodo "POSA CLIMA" (pp.14-19)
+
 - #### Parte-1 Requisiti e criteri di verifica della progettazione
 
  - **Cap-3** Da un inquadramento terminologico importnante, decidendo di abbattere
@@ -58,5 +61,56 @@
     - Cap 5.1.1. Analisi delle isoterme (calcolo flusso termico secondo **UNI EN ISO 10211**)
     e verificare che non sia inferiori alla Temp di rugiada (13,2°C secondo la UNI-EN-ISO 13788)
     - Cap 5.1.2. Per la formazione di **muffe** la temperatura reale media esterna
-    (Data in tabella dalla normativa) deve essere maggiore della temperatura di formazione della muffa stessa
+    (Data in tabella dalla normativa) deve essere maggiore della temperatura (calcolata) di formazione della muffa stessa
     per considerare il fenomeno evitato.
+
+    ![](https://github.com/LorPapa/G-Maietta-Papa/blob/main/Normative/Image/norma.JPG?raw=true)
+
+    - Cap 5.1.3 Analisi del ponte termico lineare _"genericamente possiamo dire che un ponte termico lineare ψ fino a 0,2 W/
+ mK viene considerato accettabile"_
+  - Cap 5.2 Isolamento acustico del giunto di posa deve essere correlato alle presetazioni di potere
+  fonoisolante del serramento Rw.
+  Le prestazioni acustiche sono di buona qualità quando:
+   1. esiste una o più battute di appoggio per il telaio del serramento
+   2. la dimensione del giunto è contenuta (poca "aria" tra telio e controtelaio)
+   3. materiali impiegati hanno buone proprietà acustiche
+
+   **Rs** (resistena del sigillante) è dato dall'appendice J della norma UNI EN ISO 10140-1.
+
+  - Cap 5.3 Infiltrazioni d'aria, il giunto sul piano interno deve essere senza discontinuità
+  e il materiale utilizzato deve risultare compatibile con i materiali di base.
+  Nel caso in cui si utilizzi una membrana (per la tenuta all'aria) queste dovranno essere poco
+  permeabili al vapore (sd>=2m).
+  Permeabilità viene testata secondo la **EN 12114**
+  - Cap-5.4 tenuta all'acqua, il giunto sul piano esterno deve essere continuo e senza difetti.
+  - Cap-5.5 Resistenza meccanica, i vincoli meccanici devono essere in grado  di contratastare: i carichi
+  da vento, movimento delle ante, peso proprio del serramento, dilatazioni,false manovre o carichi accidentali, spinta della folla e tentativi
+  di effrazione. Da qui i **suggerimenti** della norma quali:
+   1. interasse tra i punti di fissaggio deve essere minore di 70 cm
+   2. nel caso di sistemi anti effrazione il punto di fissaggio non può essere più distante di
+   10 cm dal punto di chiusura o movimento.
+   3. distanza tra punto di fissaggio e angolo del telaio (o controtelaio) non deve essere superiore
+   a 15 cm
+
+   materiali di riempimento (es. schiuma) non possono essere considerati sistemi di fissaggio.
+  - Cap-5.6 Durabilità e manutenibilità, per i giunti non praticamente prevista
+  una manutezione parziale, ma solo per mezzi invasivi. (es. Posa clima con i suoi sistemi garantisce **10 anni**)
+  - Cap-5.7 Composti organici volatili (VOC), i composti utilizzati a livello del piano mediano e interno
+  devono presentare una documentazione per l'emissione di VOC secondo la norma **UNI EN ISO 16000**.
+
+   Una bassa emissione di sostanze pericolose può essere certificata con il sigillo di qualità
+   europeo Emicode. Un conferimento del sigillo di livello massimo (EC1 plus) garantisce:
+    1. assenza di emissione di sostanze cancerogene dopo 3 e dopo 28 gg dalla Posa.
+    2. un valore di TVOC (total volatile organic compound) inferiore a 750 µg/m3
+       dopo 3 giorni e inferiore a 60 µg/m3 dopo 28 giorni
+    3. un contenuto di formaladeide ed acetaldeide dopo 3 giorni inferiore a 0.05 ppm.
+  - Cap 5.8 traspirabilità del giunto. Per garantire un controllo del vapore acqueo negli ambienti interni
+  è importante che è il piano interno funzioni da freno al vapore e lasci traspirare il vapore interno al piano
+  mediano verso l'esterno.
+
+   **N.B** secondo quanto richiesto si vorrebbe una posa che vede il giunto interno impermeabile e un giunto esterno
+   traspirabile. Nella pratica è eseguito l'opposto, che vede: in esterno del silicone (altamente impermeabile) e in interno della
+   schiuma poliuretanica (riempimento e isolante, permeabile al vapore).
+
+
+    
