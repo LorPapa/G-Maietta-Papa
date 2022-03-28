@@ -9,7 +9,7 @@ le loro principali caratteristiche fisiche e meccaniche e definisce i loro crite
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici e visivi) del vetro float, come definito nella UNI EN 572-1:2012,
 per l'utilizzo in edilizia: essa è rivolta ai seguenti formati
  - **Taglia jumbo**
-  -**Taglia split**
+  - **Taglia split**
   - **Lastre oversize**
 - #### Parte 3 (2012): Vetro **lucido armato**
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici, visivi e del filo metallico)
