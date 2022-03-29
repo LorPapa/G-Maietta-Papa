@@ -59,6 +59,35 @@ sigillanti a "cartuccia". Le loro prestazioni sono verificate con diverse norme 
  - Proprietà a trazione(e con estensione mantenuta): con misurazione della resistenza ad allungamento (prova secondo UNI EN 8339) parametro importnante
  per la resistenza alle variazioni geometriche del serramento.
  - Perdita di Volume (ritiro): durante l'essicazione (prova secondo UNI EN 10563)
+ - Resistenza al flusso: misura la tendenza del silicone alle colature  (secondo UNI EN 7390)
+ importante per applicazioni verticali.
+ - recupero elastico: capacità del cordolo di tornare alle dimensioni iniziali dopo allungamento
+ (UNI EN 7389)
+ - Proprietà adesive: secondo due diverse norme (UNI EN 9047 e UNI EN 10590) viene definito in classi
+ fino alla più severa (classe 25 LM,secondo la UNI EN 11600) se il materiale supera tutte le prove.
+- Compatibilità tra sigillanti fluidi e substrati: viene definito nella norma UNI 11673-1 nel paragrafo
+ 6.3 dove si fa riferimento allanorma UNI 11296 in cui è riportato il prospetto 4 della norma UNI 11673-1, dove è indicata la Compatibilità
+ tra i vari materiali presenti.
+ I sigillanti a contatto con materiali porosi **devono** essere di **categoria F** (facade)
+ dove viene utilizzato un sigillante neutro o MS polimero.
+- Conclusioni: un sigillante fluido utilizzato deve essere di classe **F LM25** il quale non prevederà
+l'utilizzo di un primer di adesione. (**N.B.** 25LM si riferisce alle proprietà meccaniche e **F** alla Compatibilità con il supporto)
+
+2. Nastri Autoespandenti (BG1):
+ Da inserire nel piano funzionale esterno (in battuta)
+- Valori da rispettare:
+ - Permeabilità all'aria, massimo di classe 4 (molto impermeabili all'aria) (UNI EN 12114)
+ - Tenuta alla pioggia battente, classe 9 di tenuta all'acqua (UNI EN 1027)
+ - Traspirabilità al vapore, altamente traspirante.
+ - Isolamento acustico, conformità alla tabella al punto 5.2 della norma UNI 11673-1, per serramenti
+ con prestazioni acustiche superiori a 40 dB è richiesto un valore Rs= 58 dB secondo la norma UNI EN ISO 10140-1
+ - Isolamento termico: valore di conducibilità termico (lambda)<= 0.050 W/mK secondo la UNI EN 12667 (molto isolante)
+
+3. Nastri autoespandenti multifunzione:
+  Si posizionano sulla spalla tra telaio e controtelaio, se posizionati in battuta devono
+  rispettare i requisiti simili ai BG1, se posti in luce devono rispeettare i requisiti per tutti e tre 
+  i piani funzionali (motivo per cui vengono chiamati multifunzione)
+
 
 
 ## **<font color="red">Corrosione</font>**
