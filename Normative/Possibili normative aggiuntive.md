@@ -45,7 +45,7 @@ sull'inquinamento acustico n.447 del 26/10/1995
 
 - BS EN 1629 resistenza forzatura sotto carico dinamico
 
-- BS EN 1630 resistena forzatura per tentativi manuali
+- BS EN 1630 resistenza forzatura per tentativi manuali
 
 - BS EN 1630 testing sicurezza forzatura
 
