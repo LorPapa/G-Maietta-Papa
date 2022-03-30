@@ -87,7 +87,7 @@ l'utilizzo di un primer di adesione. (**N.B.** 25LM si riferisce alle proprietà
   Si posizionano sulla spalla tra telaio e controtelaio, se posizionati in battuta devono
   rispettare i requisiti simili ai BG1, se posti in luce devono rispeettare i requisiti per tutti e tre
   i piani funzionali (motivo per cui vengono chiamati multifunzione)
-![](https://github.com/LorPapa/G-Maietta-Papa/blob/main/Normative/Image/DISEGNO%20SLS.JPG?raw=true)
+![Dettaglio nastri autoespandenti](Image/DISEGNO%20SLS.JPG)
 
  **NB** particolare attenzione alle prestazioni di permeabilità al vapore in quanto il nastro (Se posizionato in luce) dovrà
  rispettare il requisito di permeabilità al vapore: alto quando posizionato sul piano esterno e basso (per evitarne l'ingresso) quando Posizionato
