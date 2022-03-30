@@ -124,9 +124,7 @@ delle performance del metodo "POSA CLIMA" (pp.14-19)
 
  _**Lo studio più approfondito dei materiali di posa è rimandato al file "materiali presente in questa repository" sotto la voce "UNI 11673-1"**_
 
-  - **Cap 7** Prestazioni degli accessori e componenti, quali il cassonetto, guide, frangisole o zanzariere. Controllando le prestazioni: Acustiche,
-  Termiche e di tenuta all'aria (per alcuni)
-
+  - **Cap 7** Prestazioni degli accessori e componenti, quali il cassonetto, guide, frangisole o zanzariere. Controllando le prestazioni: Acustiche, Termiche e di tenuta all'aria (per alcuni)
   - **Appendici**: al termine dei 7 capitoli, la norma riporta 3 appendici per fornire ulteriori chiarimenti
 e precisamente:
    1.  l’APPENDICE A - che riporta degli esempi di calcolo del valore di ponte termico
@@ -143,4 +141,6 @@ norma DIN 18542 e la loro classificazione
 
 ### <font color="teal">- BS EN 12488:2016</font>
 
-Questa normativa europea definisce le funzioni, requisiti e l'installazione dei blocchi vetrati all'interno dei propri telai. Durante il processo di produzione, trasporto, installazione e ciclo di vita operativo. E' applicabile a vetri piani o curvi di ogni genere, con l'eccezione per i vetri di sicurezza o antincendio dove vedranno applicate norme aggiuntive.
+Questa normativa europea definisce le funzioni, requisiti e l'installazione dei blocchi vetrati all'interno dei propri telai. 
+Durante il processo di produzione, trasporto, installazione e ciclo di vita operativo. E' applicabile a vetri piani o curvi di ogni genere, 
+con l'eccezione per i vetri di sicurezza o antincendio dove vedranno applicate norme aggiuntive.
