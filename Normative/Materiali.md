@@ -9,7 +9,7 @@ le loro principali caratteristiche fisiche e meccaniche e definisce i loro crite
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici e visivi) del vetro float, come definito nella UNI EN 572-1:2012,
 per l'utilizzo in edilizia: essa è rivolta ai seguenti formati
  - **Taglia jumbo**
-  - **Taglia split**
+  -**Taglia split**
   - **Lastre oversize**
 - #### Parte 3 (2012): Vetro **lucido armato**
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici, visivi e del filo metallico)
@@ -140,7 +140,67 @@ sigillanti a "cartuccia". Le loro prestazioni sono verificate con diverse norme 
  - Proprietà a trazione(e con estensione mantenuta): con misurazione della resistenza ad allungamento (prova secondo UNI EN 8339) parametro importnante
  per la resistenza alle variazioni geometriche del serramento.
  - Perdita di Volume (ritiro): durante l'essicazione (prova secondo UNI EN 10563)
+ - Resistenza al flusso: misura la tendenza del silicone alle colature  (secondo UNI EN 7390)
+ importante per applicazioni verticali.
+ - recupero elastico: capacità del cordolo di tornare alle dimensioni iniziali dopo allungamento
+ (UNI EN 7389)
+ - Proprietà adesive: secondo due diverse norme (UNI EN 9047 e UNI EN 10590) viene definito in classi
+ fino alla più severa (classe 25 LM,secondo la UNI EN 11600) se il materiale supera tutte le prove.
+- Compatibilità tra sigillanti fluidi e substrati: viene definito nella norma UNI 11673-1 nel paragrafo
+ 6.3 dove si fa riferimento allanorma UNI 11296 in cui è riportato il prospetto 4 della norma UNI 11673-1, dove è indicata la Compatibilità
+ tra i vari materiali presenti.
+ I sigillanti a contatto con materiali porosi **devono** essere di **categoria F** (facade)
+ dove viene utilizzato un sigillante neutro o MS polimero.
+- Conclusioni: un sigillante fluido utilizzato deve essere di classe **F LM25** il quale non prevederà
+l'utilizzo di un primer di adesione. (**N.B.** 25LM si riferisce alle proprietà meccaniche e **F** alla Compatibilità con il supporto)
 
+2. Nastri Autoespandenti (BG1):
+ Da inserire nel piano funzionale esterno (in battuta)
+- Valori da rispettare:
+ - Permeabilità all'aria, massimo di classe 4 (molto impermeabili all'aria) (UNI EN 12114)
+ - Tenuta alla pioggia battente, classe 9 di tenuta all'acqua (UNI EN 1027)
+ - Traspirabilità al vapore, altamente traspirante.
+ - Isolamento acustico, conformità alla tabella al punto 5.2 della norma UNI 11673-1, per serramenti
+ con prestazioni acustiche superiori a 40 dB è richiesto un valore Rs= 58 dB secondo la norma UNI EN ISO 10140-1
+ - Isolamento termico: valore di conducibilità termico (lambda)<= 0.050 W/mK secondo la UNI EN 12667 (molto isolante)
+
+3. Nastri autoespandenti multifunzione:
+  Si posizionano sulla spalla tra telaio e controtelaio, se posizionati in battuta devono
+  rispettare i requisiti simili ai BG1, se posti in luce devono rispeettare i requisiti per tutti e tre
+  i piani funzionali (motivo per cui vengono chiamati multifunzione)
+![Dettaglio nastri autoespandenti](Image/DISEGNO%20SLS.JPG)
+
+ **NB** particolare attenzione alle prestazioni di permeabilità al vapore in quanto il nastro (Se posizionato in luce) dovrà
+ rispettare il requisito di permeabilità al vapore: alto quando posizionato sul piano esterno e basso (per evitarne l'ingresso) quando Posizionato
+ sul piano interno.
+- Prestazioni richieste dalla norma:
+  - Permeabilità all'aria coerente a quella dichiarata dal serramento (classe 4) UNI EN 12114 (molto impermeabili all'aria)
+  - Tenuta alla pioggia battete, per quelli posizionati sul piano esterno (UNI EN 1027)
+  - Traspirabilità al vapore.
+  - Isolamento acustico: "vedi prestazioni riportate per i BG1"
+  - Isolamento termico "vedi prestazioni riportate per i BG1"
+  - Resistenza alla variazione di temperatura da -30°C a + 80°C secondo DIN 18542 (quali sono le temperature estreme degli ambienti esterni)
+4. Membrane - Pellicole:
+sono dei nastri da applicare ai bordi dei giunti di posa. Normalmente si applicano nel giunto primario tra controtelaio
+e muro e devono **limitare il passaggio di aria,acqua e vapore**.
+- La norma richiede solo di rispettare i limiti di permeabilità al vapore come segue:
+  - se posizionati sul piano funzionale rivolto verso l'interno, devono limitare l'ingresso di aria umida e quidi rispeettare
+  le caratteristiche di freno al vapore. Dunque un sd compreso tra 2 e 20 metri (altamente impermeabile al vapore) UNI 11470
+  - se posizionati sul piani funzionale esterno dovranno essere altamente impermeabili al vapore, ovvero un sd< 0.3 m (altamente traspirante) secondo UNI 11470
+
+5. Schiume poliuretaniche, vengono utilizzati per il **riempimento** della parte mediana dei Giunti
+di sigillatura tra telaio e controtelaio e tra controtelaio e muro. Sono soggetti a variazioni dimensionali dovuti alle
+sollecitazioni del serrmaneto e dell'involucro edilizio. Rispetto ai nastri, questo materiale e soggetto a ritiro e perdita di Volume
+dunque va posta attenzione sulle proprietà elastiche.
+
+- Requisiti normativi:
+ - Allungamento a rottura >40% secondo UNI EN ISO 1798 (altamente elastico)
+ - Perdita di volume < 5% secondo UNI EN ISO 10563 (non deve aveere ritiro)
+ - capacità di recupero elastico, dichiarata dal produttore nella scheda tecnica secondo UNI EN ISO 1856.
+ - Permeabilità all'aria coerente con le prestazioni del serramento (classe 4) UNI EN 12114
+ - Traspirabilità del giunto, a seconda del piano funzionale. Va ricordato che una schiuma poliuretanica non potrà mai essere
+ utilizzata sul piano interno in quanto il materiale ha in genere un valore sd<2 m
+ - Isolamento acustico "come già spiegato per i materiali precedenti"
 
 ## **<font color="red">Corrosione</font>**
 
