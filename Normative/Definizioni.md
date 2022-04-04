@@ -22,10 +22,10 @@ Tra le **Funzioni** principali si può elencare:
  - **PVC**: Polivinilcloruro, è un materiale polimerico termoplastico. Presenta buone prestazioni isolanti mantenendo un peso e prezzo molto contenuto. La durabilità di questo materiale è dipendende dal colore e, in quanto materiale organico, risulta essere molto sensibile alla radiazione solare. E' importante valutare la variazione cromatica durante il suo ciclo di vita.
 
  - **Misti**: diffusi verso la fine del XX secolo sono quei telai composti da due materiali uno "caldo" e uno "freddo" quali:
-  - legno/Alluminio
-  - legno/bronzo
-  - legno/PVC/Alluminio
-  - ecc.
+   - legno/Alluminio
+   - legno/bronzo
+   - legno/PVC/Alluminio
+   - ecc.
 
  combinano la resistenza della sezione in metallo posta a contatto con l'esterno e al basso valore di trasmittanza termica del materiale "caldo". Sono più adatti all'utilizzo abitativo in quanto più gradevoli architettonicamente. Il più diffuso è quello legno/allumminio che combina una facilità di lavorazione e leggerezza.
 
