@@ -2,20 +2,20 @@
 
 # Table of contents
 
-1.1 [Vetro](#1.1)
-2. [PVC](##-PVC)
+1 [Vetro](#1)
 
-## <font color="red">Vetra</font><a id='1.1'></a>
+  1.1 [UNI EN 572](#1.1)
+
+# 1.1 Vetro<a id='1'></a>
 
 
-### <font color="teal">- UNI EN 572 - Vetro per edilizia (prodotti di base in vetro silicato di soda/calce)</font>
+### 1.1 <font color="teal">- UNI EN 572 - Vetro per edilizia (prodotti di base in vetro silicato di soda/calce)</font><a id='1.1'></a>
+
 - #### Parte 1 (2012 -> aggiornata al 2016): definizioni e proprietà generali fisiche e meccaniche
 La norma specifica e classifica i prodotti di base di vetro e indica la loro composizione chimica,
 le loro principali caratteristiche fisiche e meccaniche e definisce i loro criteri di qualità generali.
 - #### Parte 2 (2012): Vetro **float**
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici e visivi) del vetro float, come definito nella UNI EN 572-1:2012,
-
-# 1.1 Vetro<a id='1.1'></a>
 
 per l'utilizzo in edilizia: essa è rivolta ai seguenti formati
  - **Taglia jumbo**
