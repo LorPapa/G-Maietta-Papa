@@ -59,6 +59,10 @@ sull'inquinamento acustico n.447 del 26/10/1995
 
 - BS EN 12600 test del pendolo per vetri piatti
 
+- UNI EN 1027:2016 Finestre e porte - Tenuta all'acqua - Metodo di prova
+
+- UNI EN 12488:2016 Vetro per edilizia - Raccomandazioni per la messa in opera - Principi di posa per vetrate verticali ed inclinate
+
 **da qui in poi normative tratte dal manuale posa italiano**
 
  - **Azioni**
