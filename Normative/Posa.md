@@ -141,6 +141,6 @@ norma DIN 18542 e la loro classificazione
 
 ### <font color="teal">- BS EN 12488:2016</font>
 
-Questa normativa europea definisce le funzioni, requisiti e l'installazione dei blocchi vetrati all'interno dei propri telai. 
-Durante il processo di produzione, trasporto, installazione e ciclo di vita operativo. E' applicabile a vetri piani o curvi di ogni genere, 
+Questa normativa europea definisce le funzioni, requisiti e l'installazione dei blocchi vetrati all'interno dei propri telai.
+Durante il processo di produzione, trasporto, installazione e ciclo di vita operativo. E' applicabile a vetri piani o curvi di ogni genere,
 con l'eccezione per i vetri di sicurezza o antincendio dove vedranno applicate norme aggiuntive.
