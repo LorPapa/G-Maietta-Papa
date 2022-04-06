@@ -1,6 +1,6 @@
 # Definizioni e descrizioni
 
-# Table of content<a id='0'></a>
+# Table of contents<a id='0'></a>
 
 - 1 [Definizione generale](#1)
 - 2 [materiali telaio](#2)

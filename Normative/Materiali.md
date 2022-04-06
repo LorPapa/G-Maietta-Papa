@@ -1,6 +1,6 @@
 # **Descrizione Normative Materiali**
 
-# Table of content  <a id='0'></a>
+# Table of contents  <a id='0'></a>
 
 
 - 1 [Vetro](#1)
