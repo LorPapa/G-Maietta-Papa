@@ -3,7 +3,9 @@
 # Table of content<a id='0'></a>
 
 - 1 [Definizione generale](#1)
-- 2[materiali telaio](#2)
+- 2 [materiali telaio](#2)
+- 3 [Sistemi di apertura](#3)
+- 4 [Distanziatori](#4)
 
 [Back to contents](#0)  
 ## Definizione generale<a id='1'></a>
@@ -36,6 +38,7 @@ Tra le **Funzioni** principali si può elencare:
 
  combinano la resistenza della sezione in metallo posta a contatto con l'esterno e al basso valore di trasmittanza termica del materiale "caldo". Sono più adatti all'utilizzo abitativo in quanto più gradevoli architettonicamente. Il più diffuso è quello legno/allumminio che combina una facilità di lavorazione e leggerezza.
 
+[Back to contents](#0)
 ## Sistemi di apertura
 
 - **battente**: l'infisso è in grado di ruotare per mezzo di cerniere verticali. Permettono l'affaccio o, nel caso di portefinestre, l'uscita dell'utente dal locale.
@@ -46,4 +49,5 @@ Tra le **Funzioni** principali si può elencare:
 
 Quando progettate è importante prestare attenzione alle sollecitazioni meccaniche agenti sul telai o cerniere durante il loro utilizzo.
 
+[Back to contents](#0) 
 ## Distanziatori<a id=
