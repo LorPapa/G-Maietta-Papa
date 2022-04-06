@@ -2,7 +2,7 @@
 
 # Table of contents
 
-# 1.1 [Vetro](#1.1)
+1.1 [Vetro](#1.1)
 2. [PVC](##-PVC)
 
 ## <font color="red">Vetra</font><a id='1.1'></a>
