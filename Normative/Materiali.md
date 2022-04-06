@@ -303,11 +303,33 @@ La norma stabilisce le designazioni degli stati metallurgici per tutti i tipi di
 ### <font color="teal">- UNI EN 12020 - Alluminio e leghe di alluminio - Profilati di precisione estrusi di leghe EN AW-6060 e EN AW-6063</font>
 - #### Parte 2 (2017): Tolleranze dimensionali e di forma
 La norma specifica le tolleranze dimensionali e di forma per le leghe **EN AW-6060 ed EN AW-6063** dei profilati di precisione estrusi fabbricati con e senza barriera termica. Essa si applica a prodotti estrusi forniti senza ulteriore trattamento superficiale. I profilati di precisione trattati nella norma sono distinti dai profilati estrusi per applicazioni generali trattati nella **UNI EN 755-9** per le seguenti caratteristiche:
-- sono principalmente utilizzati per applicazioni architettoniche;
-- rispettano i requisiti più severi riguardo la condizione superficiale di superfici visibili;
-- il diametro massimo del cerchio circoscritto CD è di 350 mm;
-- hanno tolleranze dimensionali e di forma più ristrette.
-Nel caso di profilati che, per la complessità del loro progetto, sono difficili da fabbricare e specificare, si devono raggiungere accordi particolari tra il committente ed il fabbricante.
+  - sono principalmente utilizzati per applicazioni architettoniche;
+  - rispettano i requisiti più severi riguardo la condizione superficiale di superfici visibili;
+  - il diametro massimo del cerchio circoscritto CD è di 350 mm;
+  - hanno tolleranze dimensionali e di forma più ristrette.
+
+  Nel caso di profilati che, per la complessità del loro progetto, sono difficili da fabbricare e specificare, si devono raggiungere accordi particolari tra il committente ed il fabbricante.
+
+## **<font color="red">Legno</font>**
+### <font color="teal">- UNI 11717 - Finiture per il legno - Finiture per il legno per serramenti</font>
+
+- #### Parte 1 (2018): Requisiti minimi di resistenza al degrado dei supporti legnosi e dei cicli di verniciatura per serramenti esterni di legno e/o derivati del legno
+La norma definisce:
+  - le caratteristiche delle materie prime e dei prodotti finiti che influenzano il degrado dei supporti legnosi e dei cicli di verniciatura per serramenti (finestre e portefinestre, chiusure oscuranti e porte pedonali esterne) di legno e/o derivati del legno da impiegare in ambienti esterni;
+  - le modalità per la determinazione e/o valutazione di tali caratteristiche, individuate in conformità ai riferimenti normativi ove esistenti;
+  - i requisiti minimi associati a ciascuna caratteristica.
+
+- #### Parte 2 (2019): Requisiti minimi di resistenza al degrado dei supporti legnosi e dei cicli di verniciatura per serramenti esterni costituiti da legno in abbinamento con altri materiali
+La norma definisce:
+  - le caratteristiche delle materie prime e dei prodotti finiti che influenzano il degrado dei supporti legnosi e dei cicli di verniciatura per serramenti esterni (finestre, porte-finestre) realizzati in materiali misti, come per esempio in legno-plastica o legno-metallo, dove il supporto legnoso non è esposto direttamente alle intemperie. La componente lignea può costituire la struttura principale del serramento a cui è demandata la tenuta strutturale o invece può rappresentare una parte estetica riportata su un supporto a base polimerica o di metallo;
+  - le modalità per la determinazione e/o valutazione di tali caratteristiche, individuate in conformità ai riferimenti normativi, ove esistenti;
+  - i requisiti minimi associati a ciascuna caratteristica.
+
+  La presente norma non si applica a serramenti interamente costituiti da legno.
+
+
+
+
 
 
 ## **<font color="red">Giunti</font>**

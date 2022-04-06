@@ -19,13 +19,13 @@ Tra le **Funzioni** principali si può elencare:
 
  - **Alluminio**: presenta un ottima durabilità anche a basse frequenze di manutenzione. La produzione è di facile realizzazione (ad esempio tramite estrusione). Il peso proprio del serrmaneto rimane contenuto e i suo prezzi risultano essere competitivi rispetto ad una controparte in legno. Non è in grado di fornire un aspetto "gradevole" per l'edilizia abitativa, non offre un buon isolamento termico e può presentare condense superificiali. Dalla seconda metà del XX secolo viene implementata la tecnologia a "taglio termico" che prevede la separazione della parte esterna da quella interna del profilato per mezzo di un elemento plastico. Grazie a questa miglioria il telaio può raggiungere prestazioni termiche più elevate, eliminando il fenonmeno della condensa sulla superficie interna per mezzo dell'equalizzazione delle pressioni. In genere vengono scelti per edifici commerciali o uffici.
 
- -**PVC**: Polivinilcloruro, è un materiale polimerico termoplastico. Presenta buone prestazioni isolanti mantenendo un peso e prezzo molto contenuto. La durabilità di questo materiale è dipendende dal colore e, in quanto materiale organico, risulta essere molto sensibile alla radiazione solare. E' importante valutare la variazione cromatica durante il suo ciclo di vita.
+ - **PVC**: Polivinilcloruro, è un materiale polimerico termoplastico. Presenta buone prestazioni isolanti mantenendo un peso e prezzo molto contenuto. La durabilità di questo materiale è dipendende dal colore e, in quanto materiale organico, risulta essere molto sensibile alla radiazione solare. E' importante valutare la variazione cromatica durante il suo ciclo di vita.
 
- -**Misti**: diffusi verso la fine del XX secolo sono quei telai composti da due materiali uno "caldo" e uno "freddo" quali:
-  - legno/Alluminio
-  - legno/bronzo
-  - legno/PVC/Alluminio
-  - ecc.
+ - **Misti**: diffusi verso la fine del XX secolo sono quei telai composti da due materiali uno "caldo" e uno "freddo" quali:
+   - legno/Alluminio
+   - legno/bronzo
+   - legno/PVC/Alluminio
+   - ecc.
 
  combinano la resistenza della sezione in metallo posta a contatto con l'esterno e al basso valore di trasmittanza termica del materiale "caldo". Sono più adatti all'utilizzo abitativo in quanto più gradevoli architettonicamente. Il più diffuso è quello legno/allumminio che combina una facilità di lavorazione e leggerezza.
 
