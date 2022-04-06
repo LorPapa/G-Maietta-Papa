@@ -1,5 +1,12 @@
 # Definizioni e descrizioni
 
+# Table of content<a id='0'></a>
+
+- 1 [Definizione generale](#1)
+- 2[materiali telaio](#2)
+
+[Back to contents](#0)  
+## Definizione generale<a id='1'></a>
 Si definisce **infisso** il telaio su cui sono fissate le  parti apribili, dette **ante** o **partite**, di finestre,porte, ecc., oppure i vetri o pannelli di un serramento non apribile.
 
 Tra le **Funzioni** principali si può elencare:
@@ -10,8 +17,8 @@ Tra le **Funzioni** principali si può elencare:
  - Esposizione di prodotti al pubblico tramite vetrate fisse.
  -Protezione dell'abitazione da intrusioni.
 
-## Materiali del telaio
-
+[Back to contents](#0)  
+## Materiali del telaio<a id='2'></a>
  - **Legno**: utilizzato in larga scala, offre come vantaggio quello di essere ecologico e reperibile (in base al sito di produzione). E' in grado di offrire un buon grado di isolamento termico dato dalle proprietà insite nel materiale. Inoltre presenta una relativa facilità nella riparazione. Come svantaggio si può identificare una tendenza alla deformazione e deperimento sotto l'azione di agenti atmosferici durante il periodo di utilizzo. In genere i metodi di riparazione o trattamento richiedono l'utilizzo di solventi o componenti chimici che vanno ad intaccare il vantaggio di essere "ecologico".
  Sezioni tipiche dell'elemento sono di tipo "pieno".
 
@@ -38,3 +45,5 @@ Tra le **Funzioni** principali si può elencare:
 - **Scorrevole**: poggiano su carelli muniti di ruote e permettono lo scorrimento della finstra.
 
 Quando progettate è importante prestare attenzione alle sollecitazioni meccaniche agenti sul telai o cerniere durante il loro utilizzo.
+
+## Distanziatori<a id=
