@@ -49,5 +49,55 @@ Tra le **Funzioni** principali si può elencare:
 
 Quando progettate è importante prestare attenzione alle sollecitazioni meccaniche agenti sul telai o cerniere durante il loro utilizzo.
 
-[Back to contents](#0) 
-## Distanziatori<a id=
+[Back to contents](#0)
+## Distanziatori<a id='4'></a>
+
+Per la realizzazione dei vetri camera è necessario l'utilizzo di distanziatori posti tra le lastre. Tale componente è inserito lungo tutto il perimetro interno del serramento.
+
+La funzione principale è quella di creare uno spessore per una camera interna in cui vi è inserito un gas inerme quale:
+- aria secca
+- Krypton
+- Argon
+- Xenon
+
+che ha scopo di aumentare la resistenza termica del serramento. Il gas scelto fornisce gradi di prestazione diversi grazie alla diversa massa atomica dello stesso. Il distanziatore, fissato ai vetri con apposito sigillante butilico, garantisce la tenuta del gas e impedisce l'ingresso di umidità all'interno della cavità.
+
+![Dettaglio nastri autoespandenti](Image/Distanziatore.jfif)
+
+
+Si identificano due principali categorie di distanziatori:
+
+- Bordo freddo: prodotti in alluminio. Ormai meno utilizzati, presentano una maggiore conducibilità termica e producono ponti termici significativi per i serramenti ad alte prestazioni moderni.
+
+- Bordo caldo: prodotti in materiali con conducibiltà termica sensibilmente minore rispetto alla controparte "fredda". Tali materiali possono essere: Schiume flessibili, termoplastici,combinati plastica/metallo, acciaio inossidabile. Analizzati in seguito.
+
+1. *Distaziatori flessibili*: a base termoplastica e/o siliconica duttili, flessibili e con setacci molecolari incorporati. Si dividono in *butilici* (es. TPS) o *siliconici* applicati a freddo che vengono butilati lateralmente e con il dorso a contatto con il sigillante esterno (es. SS Triseal)
+2. *Distanziatori Combinati plastica/metallo*: materiali plastici (policarbonati,polipropilene,ecc.) accoppiati con bassi spessori metallici con lavorazione simile a quelli in alluminio. Ovvero con piegatura,butilatura e foratura per l'inserimento di sali e gas. (es. Chromatech Ultra,Swisspacer, Thermix TXN, TGI)
+3. Distaziatori in acciaio inossidabile
+
+*Benefici della scelta dei distanziatori a bordo caldo*:
+
+- Risparmio energetico
+- Diminuzione del fenomeno di condensa esterna al vetro isolante
+- Diminuzione dei rischi di formazione muffe
+
+![Dettaglio nastri autoespandenti](Image/phi.JPG)
+
+*Criticità distanziatori a bordo caldo*:
+- Stabilità meccanica e dilatazione termicamente
+- Compatibilità con i sigillanti di borod
+- Adesione al sigillante esterno (EN 1279/6)
+- Difficoltà di utilizzo in produzione e maggiori controlli (EN 1279/1: System Description)
+- Conformità alle norme, in particolare EN 1279
+- Permeabilità all'umidità e perdita di gas
+- Presenza di untuosità, ingiallimenti e discioglimenti.
+
+![Dettaglio nastri autoespandenti](Image/failure1.JPG)
+
+![Dettaglio nastri autoespandenti](Image/Failure2.JPG)
+
+Normativa guida sulle prestazioni e requisiti del distanziatore è la EN 1279 di cui si evidenzia la parte 2 sulla penetrazione dell'umidità e la parte 3 sulla velocità di perdita del gas,
+
+Qui di seguito si riportano alcuni prodotti in commercio:
+
+![prodotti](Image/prodotti.JPG)
