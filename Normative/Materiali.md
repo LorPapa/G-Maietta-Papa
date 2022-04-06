@@ -5,7 +5,7 @@
 
 - 1 [Vetro](#1)
   - 1.1 [UNI EN 572 ](#1.1)
-  - 1.2 [UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza](#1.2)
+  - 1.2 [UNI EN ISO 12543](#1.2)
 
 [Back to contents](#0)  
 ## 1 <font color="red"> Vetro</font><a id='1'></a>
@@ -51,7 +51,7 @@ sagomato a "U"(armato e non) fornito in dimensioni per l'utilizzo finale. per qu
 La norma tratta la valutazione della conformità e il controllo della produzione in fabbrica di prodotti di base di vetro di silicato sodo-calcico per edilizia.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza </font>
+### <font color="teal">- UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza </font><a id='1.2'></a>
 - #### Parte 1 (2021): Vetro stratificato e vetro stratificato di sicurezza. Definizioni e descrizioni delle parti componenti
 La norma ha lo scopo di definire i termini e descrivere le parti che compongono il vetro stratificato e vetro stratificato di sicurezza per l'edilizia.
 - #### Parte 2 (2021): Vetro stratificato di sicurezza
@@ -78,7 +78,7 @@ La norma specifica le dimensioni, gli scostamenti limite e le finiture dei bordi
  **NOTA**: Particolare attenzione è rivolta ai criteri di accettabilità nell'area di visibilità.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN 1863 - Vetro per l'edilizia indurito termicamente
+### <font color="teal">- UNI EN 1863 - Vetro per l'edilizia indurito termicamente</font><a id='1.3'></a>
 - #### Parte 1 (2011): Definizioni e descrizione del vetro indurito termicamente
 La norma ha lo scopo di specificare per singole lastre di vetro a base sodo-calcico indurito termicamente **di spessore nominale dai 3 mm ai 12 mm** usato in edilizia secondo le seguenti caratteristiche:
  - Tolleranze
@@ -93,7 +93,7 @@ La norma ha lo scopo di definire la valutazione della conformità e il controllo
 **NOTA**: per prodotti in vetro con fili elttrici o connessioni per funzioni di allarme o riscaldamento possono essere applicate altre normative/direttive.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN 12150 - Vetro per l'edilizia temprato termicamente
+### <font color="teal">- UNI EN 12150 - Vetro per l'edilizia temprato termicamente</font><a id='1.4'></a>
 - #### Parte 1 (2019): Definizioni e descrizione del vetro temprato termicamente
 La norma ha lo scopo di specificare per singole lastre di vetro a base sodo-calcico temprato termicamente usato in edilizia secondo le seguenti caratteristiche:
  - Tolleranze
@@ -107,7 +107,7 @@ La norma ha lo scopo di specificare per singole lastre di vetro a base sodo-calc
 La norma ha lo scopo di definire la valutazione della conformità e il controllo della produzione in fabbrica del vetro silicato sodo-calcico temprato termicamente per l'uso negli edifici. **NOTA**: per prodotti in vetro con fili elttrici o connessioni per funzioni di allarme o riscaldamento possono essere applicate altre normative/direttive.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN 12337 - Vetro per l'edilizia indurito chimicamente
+### <font color="teal">- UNI EN 12337 - Vetro per l'edilizia indurito chimicamente</font><a id='1.5'></a>
 - #### Parte 1 (2000): Definizioni e descrizione del prodotto
 La norma ha lo scopo di specificare, per il vetro silicato a base sodo-calcico indurito chimicamente, le seguenti caratteristiche:
  - Tolleranze
@@ -122,7 +122,7 @@ La norma ha lo scopo di specificare, per il vetro silicato a base sodo-calcico i
  La norma ha lo scopo di definire la valutazione della conformità e il controllo della produzione in fabbrica del vetro flat silicato sodo-calcico indurito chimicamente per l'uso negli edifici. **NOTA**: per prodotti in vetro con fili elettrici o connessioni per funzioni di allarme o riscaldamento potrebbero essere applicate altre normative/direttive.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN 1279 - Vetro isolante
+### <font color="teal">- UNI EN 1279 - Vetro isolante</font><a id='1.6'></a>
  - #### Parte 1 (2018): Generalità, descrizione del sistema, regole per la sostituzione, tolleranze e qualità per la visibilità
  La norma (in questa parte e nelle successive) ha lo scopo di definire i requisiti che devono avere prodotti in vetro isolante. Il principale utilizzo di questi vetri avviene nelle seguenti applicazioni edilizie:
   - **finestre**
@@ -169,7 +169,7 @@ Questo documento descrive il controllo di routine della produzione in fabbrica, 
 metodi di prova per verificare che un'unità di vetro isolante (IGU) sia conforme alla descrizione del sistema.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN 1096 - Vetro rivestito</font>
+### <font color="teal">- UNI EN 1096 - Vetro rivestito</font><a id='1.7'></a>
 - #### Parte 1 (2012): Definizioni e classificazione
 La norma definisce le caratteristiche, le proprietà e la classificazione del vetro rivestito per l'utilizzo in edilizia. La norma si applica al vetro rivestito per l'applicazione di vetrate per l'utilizzo in locali domestici o commerciali normalmente abitati.
 Questa norma non viene applicata a:
@@ -194,7 +194,7 @@ Il test è concepito per essere applicabile ai rivestimenti su vetro che utilizz
 La procedura di prova non riguarda specificamente la durata della funzionalità autopulente del rivestimento.
 
 [Back to contents](#0)
-### <font color="teal">- UNI EN 13501 - Classificazione al fuoco dei prodotti e degli elementi da costruzione</font>
+### <font color="teal">- UNI EN 13501 - Classificazione al fuoco dei prodotti e degli elementi da costruzione</font><a id='1.8'></a>
 - #### Parte 1 (2018): Classificazione in base ai risultati delle prove di reazione al fuoco
 La norma descrive il procedimento di classificazione di reazione al fuoco di tutti i prodotti da costruzione compresi i prodotti contenuti negli elementi da costruzione, con l'eccezione dei cavi di alimentazione, controllo e comunicazione che sono trattati nella **UNI EN 13501-6**.
 I prodotti sono considerati in relazione al loro uso finale.
@@ -246,15 +246,18 @@ secondo il punto 7.5.5.
   I metodi di prova pertinenti che sono stati preparati per questi elementi sono elencati negli articoli 2 e 7.
 
 [Back to contents](#0)
-### <font color="teal">- Normative su vetri di sicurezza</font>
-- #### UNI EN 356 (2000): Prove e classificazione di resistenza contro l'attacco manuale
+### <font color="teal">- Normative su vetri di sicurezza</font><a id='1.A'></a>
+
+[Back to contents](#0)
+- #### UNI EN 356 (2000)<a id='1.A.1'></a>: Prove e classificazione di resistenza contro l'attacco manuale
 La norma specifica i requisiti e i metodi di prova per vetro di sicurezza progettato per resistere ad azioni dovute a forze esterne ritardando, per un periodo di tempo limitato, l'accesso di oggetti e/o persone ad uno spazio protetto. La norma classifica i vetri di sicurezza in categorie di resistenza alle azioni esterne.
 Le categorie di resistenza non sono state assegnate a speciali applicazioni in questa norma.
 La selezione delle categorie dovrebbe essere fatta dall'utente per ogni singolo caso, dopo aver consultato un esperto se necessario. **NOTA 1**: I vetri di sicurezza devono essere installati in un telaio che possa offrire un'adeguata resistenza all'attacco e che fornisca anche un supporto adeguato per il prodotto di sicurezza. **NOTA 2**: I ritagli e i fori nei vetri di sicurezza devono essere evitati, se possibile, in quanto possono influenzare la resistenza del prodotto.
 Questa norma europea riguarda solo la resistenza meccanica all'attacco.
 Possono essere importanti anche altre proprietà, per le quali saranno preparate norme separate.
 
-- #### UNI EN 13541 (2012): Prove e classificazione della resistenza alla pressione causata da esplosioni
+[Back to contents](#0)
+- #### UNI EN 13541 (2012)<a id='1.A.2'></a>: Prove e classificazione della resistenza alla pressione causata da esplosioni
 La norma specifica un metodo di prova, i requisiti di prestazione e la classificazione di vetrate resistenti alla pressione causata da esplosioni per l'utilizzo in edilizia. Le vetrate resistenti alla pressione causata da esplosioni devono fornire resistenza contro le esplosioni rispettando la sicurezza delle persone.
 Questa norma europea riguarda un metodo di prova contro le onde d'urto generate utilizzando un tubo d'urto o
 struttura simile per simulare la detonazione di un alto esplosivo.
@@ -265,7 +268,8 @@ dimensioni. **NOTA 1**: Le classi di resistenza non sono assegnate a situazioni 
 Per ogni singolo caso l'individuo che specifica, se necessario con l'aiuto di esperti nel campo dell'esplosione, dovrebbe essere consultato. **NOTA 2**: La protezione fornita dai vetri antideflagranti non dipende solo dal prodotto stesso, ma anche dalla
 progettazione e dal fissaggio del vetro.
 
-- #### UNI EN 1063 (2000): Classificazione e prove di resistenza ai proiettili
+[Back to contents](#0)
+- #### UNI EN 1063 (2000)<a id='1.A.3'></a>: Classificazione e prove di resistenza ai proiettili
 La norma specifica i requisiti prestazionali e i metodi di prova per classificare la resistenza ai proiettili di vetrate e di vetrate composite vetro/plastica. **NOTA 1**: Il termine "vetro antiproiettile" si applica a prodotti che hanno le caratteristiche evidenti del vetro, ma si intende includere anche i prodotti laminati di vetro e plastica.
 Questa norma si applica a:
  - attacco con pistole, fucili e fucili da caccia;
@@ -276,7 +280,8 @@ Questa norma si applica a:
 
   **NOTA 3**: La protezione fornita dai vetri antiproiettile dipende non solo dal prodotto stesso, ma anche dal design e dal fissaggio del vetro.
 
-- #### UNI EN 12600 (2002): Prova del pendolo - Metodo della prova di impatto e classificazione per il vetro piano
+[Back to contents](#0)
+- #### UNI EN 12600 (2002)<a id='1.A.4'></a>: Prova del pendolo - Metodo della prova di impatto e classificazione per il vetro piano
 La norma specifica un metodo per la prova di impatto con pendolo di singole lastre di vetro piano per uso in edilizia. La prova ha lo scopo di classificare il vetro piano in tre classi principali a seconda della prestazione nei confronti dell'impatto e della modalità di rottura.
 Questo standard non specifica i requisiti per le applicazioni, né i requisiti per la durata.
 
@@ -434,7 +439,7 @@ dunque va posta attenzione sulle proprietà elastiche.
 
 ## **<font color="red">Corrosione</font>**
 
-[Back to contents](#0) 
+[Back to contents](#0)
 ### <font color="teal">- BS EN 1670:2007 - Building hardware - Corrosion Resistance - Requirements and test methods </font>
 
 Specifica i **requisiti per la resistenza a corrosione** dei componenenti
