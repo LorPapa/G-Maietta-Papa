@@ -5,6 +5,9 @@
 - 1 [Vetro](#pippomale)
 
   - 1.1 [UNI EN 572](#1.1)
+  - 1.2 [UNI EN ISO 12543](#1.2)
+  - 1.3 [UNI EN 1863](#1.3)
+  - 1.4 []
 
 # 1 Vetro<a id='pippomale'></a>
 
@@ -16,11 +19,10 @@ La norma specifica e classifica i prodotti di base di vetro e indica la loro com
 le loro principali caratteristiche fisiche e meccaniche e definisce i loro criteri di qualità generali.
 - #### Parte 2 (2012): Vetro **float**
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici e visivi) del vetro float, come definito nella UNI EN 572-1:2012,
-
 per l'utilizzo in edilizia: essa è rivolta ai seguenti formati
  - **Taglia jumbo**
-  -**Taglia split**
-  - **Lastre oversize**
+ - **Taglia split**
+ - **Lastre oversize**
 - #### Parte 3 (2012): Vetro **lucido armato**
 La norma specifica i requisiti dimensionali e di qualità minima (rispetto ai difetti ottici, visivi e del filo metallico)
 del vetro lustro armato, come definito nella UNI EN 572-1:2012, per l'utilizzo in edilizia; la normativa è applicata
@@ -48,7 +50,7 @@ sagomato a "U"(armato e non) fornito in dimensioni per l'utilizzo finale. per qu
 - #### Parte 9 (2004): Valutazione del prodotto/Standard di prodotto
 La norma tratta la valutazione della conformità e il controllo della produzione in fabbrica di prodotti di base di vetro di silicato sodo-calcico per edilizia.
 
-### <font color="teal">- UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza </font>
+### <font color="teal">- UNI EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza </font><a id='1.2'></a>
 - #### Parte 1 (2021): Vetro stratificato e vetro stratificato di sicurezza. Definizioni e descrizioni delle parti componenti
 La norma ha lo scopo di definire i termini e descrivere le parti che compongono il vetro stratificato e vetro stratificato di sicurezza per l'edilizia.
 - #### Parte 2 (2021): Vetro stratificato di sicurezza
@@ -74,7 +76,7 @@ La norma specifica le dimensioni, gli scostamenti limite e le finiture dei bordi
  La norma specifica i difetti delle misure fisse e i metodi di prova riguardanti l'aspetto del vetro stratificato quando si guarda attraverso il vetro. La norma è applicabile alle misure fisse al momento della fornitura.
  **NOTA**: Particolare attenzione è rivolta ai criteri di accettabilità nell'area di visibilità.
 
-### <font color="teal">- UNI EN 1863 - Vetro per l'edilizia indurito termicamente
+### <font color="teal">- UNI EN 1863 - Vetro per l'edilizia indurito termicamente</font><a id='1.3'></a>
 - #### Parte 1 (2011): Definizioni e descrizione del vetro indurito termicamente
 La norma ha lo scopo di specificare per singole lastre di vetro a base sodo-calcico indurito termicamente **di spessore nominale dai 3 mm ai 12 mm** usato in edilizia secondo le seguenti caratteristiche:
  - Tolleranze
@@ -235,6 +237,9 @@ standard europeo. Le porte di piano degli ascensori che sono testate secondo EN 
 secondo il punto 7.5.5.
 
   I metodi di prova pertinenti che sono stati preparati per questi elementi sono elencati negli articoli 2 e 7.
+
+### <font color="teal">- UNI EN 15998 (2020) - Vetro per edilizia - Sicurezza in caso di incendio, resistenza al fuoco - Metodologia di prova del vetro a scopo di classificazione</font>
+
 
 ### <font color="teal">- Normative su vetri di sicurezza</font>
 - #### UNI EN 356 (2000): Prove e classificazione di resistenza contro l'attacco manuale
