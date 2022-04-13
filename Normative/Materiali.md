@@ -14,11 +14,11 @@
   - 1.8 [EN 13501](#1.8)
   - 1.9 [EN 15998](#1.9)
   - 1.A [Normative su vetri di sicurezza](#1.A)
-   - 1.A.1 [EN 356](#1.A.1)
-   - 1.A.2 [EN 13541](#1.A.2)
-   - 1.A.3 [EN 1063](#1.A.3)
-   - 1.A.4 [EN 12600](#1.A.4)
-   - 1.A.5 []
+    - 1.A.1 [EN 356](#1.A.1)
+    - 1.A.2 [EN 13541](#1.A.2)
+    - 1.A.3 [EN 1063](#1.A.3)
+    - 1.A.4 [EN 12600](#1.A.4)
+    - 1.A.5 []
 - 2 [PVC](#2)
 
 
@@ -316,7 +316,7 @@ La norma specifica un metodo per la prova di impatto con pendolo di singole last
 Questo standard non specifica i requisiti per le applicazioni, né i requisiti per la durata.
 
 [Back to contents](#0)
-## **<font color="red">PVC</font>**
+## **<font color="red">PVC</font>**<a id='2'></a>
 ### <font color="teal">- EN 12608 - Profili di policloruro di vinile non plastificato (PVC-U) per la realizzazione di finestre e porte - Classificazione, requisiti e metodi di prova</font>
 - #### Parte 1 (2016 + A1 2020): Profili in PVC-U non rivestiti con superfici di colore chiaro
 La presente norma europea specifica le classificazioni, i requisiti e i metodi di prova per i profili non rivestiti
