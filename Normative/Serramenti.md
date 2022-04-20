@@ -53,3 +53,15 @@ dovrebbe essere effettuata come prescritto in tali norme europee.
 Le finestre devono essere testate in conformità alle norme **EN 14608** e **EN 14609**.
 Prima e dopo tali prove le finestre ad azionamento manuale sono testate in conformità alla norma **EN 12046-1**.
 I risultati sono espressi in conformità alla norma **EN 13115**.
+
+[Back to contents](#0)
+
+### <font color="teal">2.4 Tenuta all'acqua</font><a id='2.2'></a>
+
+#### <font color="cyan"> 2.4. EN 12208 - Finestre e porte classificazione della tenuta all'acqua </font><a id='2.1.B'></a>
+
+Vengono definite le classi di prestazione per la tenuta all'acqua secondo:
+
+- tipo di esposizione (completamente esposto o parzialmente riparato)
+- Tempo di resistenza fino a penetrazione di acqua (sotto i 15 minuti non viene classificato)
+- Pressione massima a cui il serramento è esposto
