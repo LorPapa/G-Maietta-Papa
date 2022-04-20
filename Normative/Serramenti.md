@@ -13,8 +13,11 @@
    - 2.3.B [EN 14609-2004](#2.3.B)
    - 2.3.C [EN 12046-2020: Parte 1](#2.3.C)
    - 2.3.D [EN 13115-2020](#2.3.D)
+ - 2.4 [Tenuta all'acqua](#2.4)
+  - 2.4.A [EN 12208](#2.4.A)
 - 3 [Requisti di prestazione energetica](#3)
  - 3.1 [Trasmittanza termica](#3.1)
+
 
 [Back to contents](#0)
 ## <font color="red">1. Scopo</font> <a id='1'></a>
@@ -56,9 +59,9 @@ I risultati sono espressi in conformità alla norma **EN 13115**.
 
 [Back to contents](#0)
 
-### <font color="teal">2.4 Tenuta all'acqua</font><a id='2.2'></a>
+### <font color="teal">2.4 Tenuta all'acqua</font><a id='2.4'></a>
 
-#### <font color="cyan"> 2.4. EN 12208 - Finestre e porte classificazione della tenuta all'acqua </font><a id='2.1.B'></a>
+#### <font color="cyan"> 2.4.A EN 12208 - Finestre e porte classificazione della tenuta all'acqua </font><a id='2.4.A'></a>
 
 Vengono definite le classi di prestazione per la tenuta all'acqua secondo:
 
