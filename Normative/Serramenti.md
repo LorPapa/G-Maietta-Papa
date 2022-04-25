@@ -12,7 +12,7 @@
 - 3 [Requisti di prestazione energetica](#3)
  - 3.1 [Trasmittanza termica](#3.1)
  - 3.2 [Permeabilità all'aria](#3.2)
-  - 3.2.A [EN 12207-2016](#3.2.A)
+   - 3.2.A [EN 12207-2016](#3.2.A)
  - 3.3 [Ponti termici](#3.3)
  - 3.4 [Comportamento ai diversi climi](#3.4)
  - 3.5 [Proprietà radiative](#3.5)
