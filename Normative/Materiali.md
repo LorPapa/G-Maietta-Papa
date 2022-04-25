@@ -317,6 +317,7 @@ Questo standard non specifica i requisiti per le applicazioni, né i requisiti p
 
 [Back to contents](#0)
 ## **<font color="red">PVC</font>**<a id='2'></a>
+---
 ### <font color="teal">- EN 12608 - Profili di policloruro di vinile non plastificato (PVC-U) per la realizzazione di finestre e porte - Classificazione, requisiti e metodi di prova</font>
 - #### Parte 1 (2016 + A1 2020): Profili in PVC-U non rivestiti con superfici di colore chiaro
 La presente norma europea specifica le classificazioni, i requisiti e i metodi di prova per i profili non rivestiti
@@ -331,6 +332,9 @@ come segue:
 **NOTA 1**: Per ragioni editoriali in questo documento il termine "finestra" è usato per finestra/porta.
 **NOTA 2**: I profili realizzati con materiali in PVC-U con rinforzi (ad es. fibre di vetro) non fanno parte di questa normativa.
 
+Definite le classi di resistenza all'impatto, variazione cromatica e classe climatica.
+
+---
 
 ## **<font color="red">Alluminio</font>**
 
