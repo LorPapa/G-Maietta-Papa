@@ -22,6 +22,7 @@
  - 4.3 [Ventilazione](#4.3)
 
 
+
 [Back to contents](#0)
 ## <font color="red">1. Scopo</font> <a id='1'></a>
 Nel presente capitolo si tratteranno nello specifico i principali riferimenti
@@ -161,3 +162,8 @@ Il contributo di isolamento acustico dato dal serramento alla facciata di appart
 
 [Back to contents](#0)
 ### <font color="teal">4.2 Tenuta all'acqua </font><a id='4.2'></a>
+Vengono definite le classi di prestazione per la tenuta all'acqua secondo:
+
+- tipo di esposizione (completamente esposto o parzialmente riparato)
+- Tempo di resistenza fino a penetrazione di acqua (sotto i 15 minuti non viene classificato)
+- Pressione massima a cui il serramento è esposto
