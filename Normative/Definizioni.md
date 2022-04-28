@@ -54,7 +54,7 @@ Quando progettate è importante prestare attenzione alle sollecitazioni meccanic
 
 Per la realizzazione dei vetri camera è necessario l'utilizzo di distanziatori posti tra le lastre. Tale componente è inserito lungo tutto il perimetro interno del serramento.
 
-La funzione principale è quella di creare uno spessore per una camera interna in cui vi è inserito un gas inerme quale:
+La funzione principale è quella di creare uno spessore per una camera interna in cui vi è inserito un gas inerte quale:
 - aria secca
 - Krypton
 - Argon
