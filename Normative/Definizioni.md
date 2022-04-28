@@ -3,7 +3,7 @@
 # Table of contents<a id='0'></a>
 
 - 1 [Definizione generale](#1)
-- 2 [materiali telaio](#2)
+- 2 [Materiali del telaio](#2)
 - 3 [Sistemi di apertura](#3)
 - 4 [Distanziatori](#4)
 
@@ -17,7 +17,7 @@ Tra le **Funzioni** principali si può elencare:
  - Permmettere l'affaccio verso l'esterno (Se apribili)
  - Accesso da o verso l'esterno, nel caso di porte finestre.
  - Esposizione di prodotti al pubblico tramite vetrate fisse.
- -Protezione dell'abitazione da intrusioni.
+ - Protezione dell'abitazione da intrusioni.
 
 [Back to contents](#0)  
 ## Materiali del telaio<a id='2'></a>
@@ -54,7 +54,7 @@ Quando progettate è importante prestare attenzione alle sollecitazioni meccanic
 
 Per la realizzazione dei vetri camera è necessario l'utilizzo di distanziatori posti tra le lastre. Tale componente è inserito lungo tutto il perimetro interno del serramento.
 
-La funzione principale è quella di creare uno spessore per una camera interna in cui vi è inserito un gas inerme quale:
+La funzione principale è quella di creare uno spessore per una camera interna in cui vi è inserito un gas inerte quale:
 - aria secca
 - Krypton
 - Argon
@@ -85,7 +85,7 @@ Si identificano due principali categorie di distanziatori:
 
 *Criticità distanziatori a bordo caldo*:
 - Stabilità meccanica e dilatazione termicamente
-- Compatibilità con i sigillanti di borod
+- Compatibilità con i sigillanti di bordo
 - Adesione al sigillante esterno (EN 1279/6)
 - Difficoltà di utilizzo in produzione e maggiori controlli (EN 1279/1: System Description)
 - Conformità alle norme, in particolare EN 1279
