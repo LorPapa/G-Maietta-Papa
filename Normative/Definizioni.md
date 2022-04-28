@@ -3,7 +3,7 @@
 # Table of contents<a id='0'></a>
 
 - 1 [Definizione generale](#1)
-- 2 [materiali telaio](#2)
+- 2 [Materiali del telaio](#2)
 - 3 [Sistemi di apertura](#3)
 - 4 [Distanziatori](#4)
 
@@ -85,7 +85,7 @@ Si identificano due principali categorie di distanziatori:
 
 *Criticità distanziatori a bordo caldo*:
 - Stabilità meccanica e dilatazione termicamente
-- Compatibilità con i sigillanti di borod
+- Compatibilità con i sigillanti di bordo
 - Adesione al sigillante esterno (EN 1279/6)
 - Difficoltà di utilizzo in produzione e maggiori controlli (EN 1279/1: System Description)
 - Conformità alle norme, in particolare EN 1279
