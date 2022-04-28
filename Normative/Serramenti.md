@@ -19,14 +19,25 @@
 - 4 [Comfort](#4)
   - 4.1 [Performance acustiche](#4.1)
   - 4.2 [Tenuta all'acqua](#4.2)
+   - 4.2.A [EN 12208-2000](#4.2.A)
   - 4.3 [Ventilazione](#4.3)
+- 5 [Sicurezza](#5)
+  - 5.1 [Resistenza ai proiettili](#5.1)
+   - 5.1.A [EN 1522-2000](#5.1.A)
+  - 5.2 [Resistenza alle esplosioni](#5.2)
+   - 5.2.A [EN 13123-2001: Parte 1](#5.2.A)
+   - 5.2.B [EN 13123-2001: Parte 2](#5.2.B)
+  - 5.3 [Resistenza agli urti](#5.3)
+   - 5.3.A [EN 13049-2003](#5.3.A)
+  - 5.4 [Resistenza all'effrazione](#5.4)
+  - 5.5 [Rilascio di sostanze pericolose](#5.5)
 
 
 
 [Back to contents](#0)
 ## <font color="red">1. Scopo</font> <a id='1'></a>
 Nel presente capitolo si tratteranno nello specifico i principali riferimenti
-normativi rigurdanti **standard di prodotto** e requisiti di tipo **prestazionale** dell'elemento **serramento**. _Non verranno trattate le normative che si riferiscono ai metodi di test del prodotto._
+normativi rigurdanti **standard di prodotto** e requisiti di tipo **prestazionale** dell'elemento **serramento**. _Non verranno trattate le normative che si riferiscono ai metodi di test del serramento._
 La normativa di riferimento principale sarà la "**EN 14351-1 (2016)**: Standard di prodotto, caratteristiche prestazionali - Parte 1: finestre e porte esterne pedonali."
 
 [Back to contents](#0)
@@ -162,8 +173,153 @@ Il contributo di isolamento acustico dato dal serramento alla facciata di appart
 
 [Back to contents](#0)
 ### <font color="teal">4.2 Tenuta all'acqua </font><a id='4.2'></a>
-Vengono definite le classi di prestazione per la tenuta all'acqua secondo:
+Deve essere eseguita una prova di impermeabilità in conformità alla norma **EN 1027**.
 
-- tipo di esposizione (completamente esposto o parzialmente riparato)
-- Tempo di resistenza fino a penetrazione di acqua (sotto i 15 minuti non viene classificato)
-- Pressione massima a cui il serramento è esposto
+I risultati sono espressi in conformità alla norma **EN 12208**.
+
+La prova di impermeabilità delle schermature viene effettuata sulla schermatura totale o sulle sue singole parti. In
+In quest'ultimo caso, la designazione della schermatura è determinata dalla parte o dalle parti con la prestazione più sfavorevoli.
+
+[Back to contents](#0)
+#### <font color="cyan">4.2.A EN 12208-2000: Finestre e porte - Impermeabilità - Classificazione</font><a id='4.2.A'></a>
+La norma definisce la classificazione dei risultati di test per finestre completamente assemblate (e porte) di qualsiasi materiale in accordo con la **EN 1027**.
+
+Vengono definite le classi di prestazione per la tenuta all'acqua secondo la tabella 1 nel seguente modo:
+
+- Tipo di esposizione (completamente esposto o parzialmente riparato);
+- Tempo di resistenza fino a penetrazione di acqua (sotto i 15 minuti non viene classificato);
+- Pressione massima a cui il serramento è esposto.
+
+[Back to contents](#0)
+### <font color="teal">4.3 Ventilazione </font><a id='4.3'></a>
+I dispositivi di trasferimento dell'aria integrati in una finestra o in una porta pedonale esterna devono essere testati e valutati secondo la norma **EN 13141-1**.
+I giunti e le aperture non sottoposti a prova devono essere coperti con del nastro adesivo.
+
+I risultati devono includere
+- caratteristiche del flusso d'aria (K) ed esponente del flusso (n);
+- portata d'aria a (4, 8, 10 e 20) Pa di differenza di pressione.
+
+**NOTA 1**: Possono essere indicate altre differenze di pressione. La portata d'aria qv deve essere determinata come segue: qv = K (Δp)n dove K è la caratteristica del flusso d'aria del dispositivo; n è l'esponente del flusso; Δp è la differenza di pressione.
+
+**NOTA 2**: I dispositivi individuali, designati per essere installati in una finestra o in una porta pedonale esterna in un momento successivo, non sono coperti da questa norma europea.
+
+[Back to contents](#0)
+## <font color="red">5. Sicurezza</font> <a id='5'></a>
+### <font color="teal">5.1 Resistenza ai proiettili </font><a id='5.1'></a>
+Dopo le prove in conformità alla norma **EN 1523**, le caratteristiche di resistenza ai proiettili delle finestre e dei serramenti esterni pedonali devono essere espresse in conformità alla norma **EN 1522**.
+
+[Back to contents](#0)
+#### <font color="cyan">5.1.A EN 1522-2000: Finestre, porte, persiane e tende - Resistenza ai proiettili - Requisiti e classificazione</font><a id='5.1.A'></a>
+Questa norma definisce i requisiti e la
+classificazione che finestre, porte, persiane e tapparelle
+devono soddisfare quando vengono testati in conformità alla norma **EN 1523**.
+
+Questa norma è applicabile agli attacchi di pistole,
+fucili e fucili da caccia su finestre, porte, persiane e
+persiane complete dei loro telai e tamponamenti, per l'uso sia all'interno che all'esterno degli edifici.
+
+Le persiane e gli oscuranti devono essere testati separatamente e non
+in combinazione con una finestra o una porta, al fine di
+ottenere la classificazione in termini di resistenza ai proiettili.
+
+Questa norma non fornisce informazioni sul comportamento
+dell'elemento in prova se sottoposto ad altri tipi di sollecitazioni.
+
+Non fornisce informazioni sulla resistenza ai proiettili della
+giunzione tra il telaio e il muro o altra struttura
+struttura circostante.
+
+Le classi da FB1 a FB7 riportate nella tabella 1 sono in ordine di
+crescente di resistenza alla perforazione. La classe FB1
+rappresenta la più bassa resistenza alla perforazione, e la classe FB7
+la più alta, ad esempio FB4 comprende FB3, FB2, FB1 e, se necessario, l'istituto di prova deve condurre ulteriori prove aggiuntive nelle classi inferiori per confermarlo.
+
+[Back to contents](#0)
+### <font color="teal">5.2 Resistenza alle esplosioni </font><a id='5.2'></a>
+#### Prova "shock tube"
+Dopo le prove in conformità alla norma **EN 13124-1**, le caratteristiche di resistenza alle esplosioni delle finestre e delle porte pedonali esterne devono essere espresse in conformità alla norma **EN 13123-1**.
+##### <font color="cyan">5.2.A EN 13123-2001: Finestre, porte e persiane - Resistenza all'esplosione - Requisiti e classificazione - Parte 1: Shock tube</font><a id='5.2.A'></a>
+Questa norma europea specifica i criteri che finestre, porte e persiane devono soddisfare per ottenere una classificazione quando sono sottoposti al metodo di prova descritto nella norma **EN 13124-1**.
+
+La presente norma europea riguarda un metodo di prova contro le onde d'urto generate utilizzando un tubo d'urto per simulare la detonazione di un grosso esplosivo dell'ordine di 100 kg a 2 500 kg di TNT a distanze da circa 35 m a 50 m.
+
+Questa norma europea è applicabile alla sovrapressione dell'esplosione generata in un impianto di prova con tubo d'urto utilizzato per simulare una detonazione ad alto potenziale su finestre, porte e persiane, complete dei loro
+telai e tamponamenti, per l'uso in luoghi interni ed esterni agli edifici.
+
+Non fornisce alcuna informazione sulla capacità di resistenza all'esplosione del muro o di altre strutture circostanti.
+
+I valori da EPR1 a EPR4 riportati nella tabella 1 definiscono le classi di resistenza all'esplosione mettendo in relazione la **pressione di picco** agente sull'elemento e il valore positivo di **impulso specifico**.
+
+Quando un finestrino, una porta o una persiana raggiunge una determinata classe, automaticamente sono rispettate tutte le classi inferiori.
+
+[Back to contents](#0)
+#### "Range test"
+Dopo le prove in conformità alla norma **EN 13124-2**, le caratteristiche di resistenza all'esplosione di finestre e porte esterne pedonali devono essere espresse secondo la norma **EN 13123-2**.
+##### <font color="cyan">5.2.B EN 13123-2004: Finestre, porte e persiane - Resistenza all'esplosione - Requisiti e classificazione - Parte 2: Range test</font><a id='5.2.B'></a>
+Questa norma europea specifica i criteri che finestre, porte e persiane devono soddisfare per ottenere una
+classificazione quando sono sottoposti al metodo di prova descritto nella norma **EN 13124-2**.
+
+La presente norma europea riguarda un metodo di prova contro le onde d'urto in aria aperta derivanti da esplosivi ad alto potenziale che possono essere trasportati a mano e posizionati a pochi metri da un obiettivo.
+
+A tali distanze ravvicinate, i valori dell'esplosione variano attraverso un
+fronte d'attacco. Essendo difficile, costosa e soggetta a imprecisione la misurazione controllata dell'effettiva esplosione sulla faccia del provino la misura della potenza dell'esplosione è controllata in questa norma europea dalle caratteristiche della carica esplosiva e dalla sua posizione.
+
+Questa norma europea copre solo il comportamento dell'unità completa che include il tamponamento, il telaio e i fissaggi come testato.
+Non fornisce informazioni sulla capacità del muro circostante o della struttura dell'edificio di resistere alle forze dirette o trasmesse.
+
+Se le finestre, le porte e le persiane sono destinate a condizioni climatiche specifiche, possono essere richieste condizioni di prova specifiche.
+La presente norma europea non fornisce alcuna informazione sulla capacità di resistenza alle esplosioni del muro o di un'altra struttura.
+
+I valori da EXR1 a EXR5 presenti in tabella 1 definiscono le classi di resistenza all'esplosione mettendo in relazione la carica totale dell'esplosivo (massa) e la distanza da cui viene fatto brillare. Quando una finestra, porta o persiana raggiunge una determinata classe, automaticamente anche tutte le classi inferiori sono rispettate.
+
+[Back to contents](#0)
+### <font color="teal">5.3 Resistenza agli urti </font><a id='5.3'></a>
+Le finestre (e le porte pedonali estern)e dotate di vetro o altro materiale frammentario devono essere testati e i risultati sono espressi in conformità alla norma **EN 13049**. Se necessario, la prova deve essere effettuata da entrambi i lati.
+#### <font color="cyan">5.3.A EN 13049-2003: Finestre - Morbido e impatto pesante del corpo - Metodo di prova, requisiti di sicurezza e classificazione</font><a id='5.3.A'></a>
+Questa norma europea specifica il metodo di prova, i requisiti di sicurezza e la classificazione quando si determina l'effetto su una finestra impattata con un corpo morbido e pesante.
+
+Qualsiasi anta mobile secondaria, battente o luce fissa che possono essere montati internamente alle ante o ai battenti principali, devono essere testati allo stesso modo.
+
+Il test si applica a tutti i tamponamenti di qualsiasi materiale, incluso il vetro. Non è inteso a valutare la resistenza del vetro quando viene usato come tamponamento.
+
+La norma ha il compito di valutare le interazioni tra tutti i componenti di una finestra con particolare riguardo alla sicurezza nell'uso.
+Il test è stato concepito per adattarsi a tutti i tipi di finestre, configurazioni e materiali.
+
+L'altezza di caduta da utilizzare nel test deve essere scelta dalla tabella 1. Per ottenere una certa classe di resistenza, si devono soddisfare i seguenti requisiti:
+
+- qualsiasi apertura non deve permettere il passaggio di un ellissoide, come specificato nella **ENV 1630**;
+- l'impatto non deve staccare o dislocare alcun battente o anta del campione di prova né scollegare alcun
+elementi di fissaggio o di riempimento, né alcuna delle sue parti composte deve staccarsi o frantumarsi in modo pericoloso;
+- la massa di qualsiasi parte staccata non deve superare i 50 grammi.
+
+Dalla tabella 1 si evincono di fatto le classi di resistenza dalla 1 alla 5 in relazione all'altezza da cui viene lasciato cadere il corpo necessario per l'impatto.
+
+[Back to contents](#0)
+### <font color="teal">5.4 Resistenza all'effrazione </font><a id='5.4'></a>
+Dopo le prove in conformità a **EN 1628**, **EN 1629** e **EN 1630** i risultati devono essere espressi in secondo la norma **EN 1627**.
+#### <font color="cyan">5.4.A EN 1627-2011: Porte pedonali, finestre, facciate continue, griglie e persiane - Resistenza allo scasso - Requisiti e classificazione</font><a id='5.4.A'></a>
+Questa norma europea specifica i requisiti e i sistemi di classificazione per le caratteristiche antieffrazione di porte pedonali, finestre, facciate continue, griglie e persiane.
+
+È applicabile a i seguenti mezzi di apertura: a rotazione, a ribalta, a libro, a battente, a sospensione dall'alto o dal basso, a scorrimento (orizzontalmente e verticalmente) e avvolgibili così come le strutture fisse.
+Copre anche i prodotti che includono elementi come targhe o griglie di ventilazione.
+
+La norma specifica i requisiti per la resistenza all'effrazione di un prodotto da costruzione.
+Questa norma europea non copre direttamente la resistenza delle serrature e dei cilindri all'attacco con strumenti di scasso. Non copre gli elementi prefabbricati in calcestruzzo.
+Non copre l'attacco di prodotti da costruzione antieffrazione elettrici, elettronici ed elettromagnetici prodotti per l'edilizia a funzionamento elettrico, elettronico ed elettromagnetico con metodi di attacco che potrebbero annullare queste caratteristiche.
+
+**NOTA 1**: Le parti meccaniche dei prodotti da costruzione antieffrazione elettrici, elettronici ed elettromagnetici possono essere testate in assenza di corrente elettrica.
+Questa norma europea non si applica a porte, cancelli e barriere, destinati all'installazione in aree alla portata delle persone e i cui principali usi previsti sono l'accesso sicuro per le merci e i veicoli accompagnati o guidati da persone
+veicoli accompagnati o guidati da persone in locali industriali, commerciali o residenziali, come coperti da **EN 13241-1**.
+
+**NOTA 2**: I prodotti da costruzione che possono essere raggiunti o attraversati da veicoli dovrebbero essere protetti da
+misure appropriate come barriere, rampe estensibili, ecc.
+
+Se testato in conformità a **EN 1628**, **EN 1629** o **EN 1630**, il materiale di tamponamento diverso dal vetro non deve presentare cedimenti alla classe di resistenza dichiarata.
+
+Questa norma specifica i requisiti
+relativi al livello di sicurezza per le vetrature.
+Quando più lastre di vetro sono utilizzate in un prodotto, ad esempio unità di vetro isolante, almeno una lastra deve soddisfare la classe di resistenza indicata nella tabella 1.
+
+Le classi di resistenza all'effrazione del serramento e delle sue parti variano dalla RC1 alla RC6 ed esse determinano le classi di resistenza di ogni suo componente (vetro, fissaggi, etc..)
+
+[Back to contents](#0)
