@@ -17,7 +17,7 @@ Tra le **Funzioni** principali si può elencare:
  - Permmettere l'affaccio verso l'esterno (Se apribili)
  - Accesso da o verso l'esterno, nel caso di porte finestre.
  - Esposizione di prodotti al pubblico tramite vetrate fisse.
- -Protezione dell'abitazione da intrusioni.
+ - Protezione dell'abitazione da intrusioni.
 
 [Back to contents](#0)  
 ## Materiali del telaio<a id='2'></a>
