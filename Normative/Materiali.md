@@ -18,7 +18,6 @@
     - 1.10.B [EN 13541](#1.10.B)
     - 1.10.C [EN 1063](#1.10.C)
     - 1.10.D [EN 12600](#1.10.D)
-    - 1.10.E [EN]
 - 2 [PVC](#2)
   - 2.1 [EN 12608](#2.1)
 - 3 [Alluminio](#3)
@@ -233,6 +232,7 @@ metodi di prova per verificare che un'unità di vetro isolante (IGU) sia conform
 [Back to contents](#0)
 
 ### 1.7 <font color="teal">- EN 1096 - Vetro rivestito</font><a id='1.7'></a>
+
 - #### Parte 1 (2012): Definizioni e classificazione
 La norma definisce le caratteristiche, le proprietà e la classificazione del vetro rivestito per l'utilizzo in edilizia. La norma si applica al vetro rivestito per l'applicazione di vetrate per l'utilizzo in locali domestici o commerciali normalmente abitati.
 
@@ -270,6 +270,7 @@ La procedura di prova non riguarda specificamente la durata della funzionalità 
 [Back to contents](#0)
 
 ### 1.8 <font color="teal">- EN 13501 - Classificazione al fuoco dei prodotti e degli elementi da costruzione</font><a id='1.8'></a>
+
 - #### Parte 1 (2018): Classificazione in base ai risultati delle prove di reazione al fuoco
 La norma descrive il procedimento di classificazione di reazione al fuoco di tutti i prodotti da costruzione compresi i prodotti contenuti negli elementi da costruzione, con l'eccezione dei cavi di alimentazione, controllo e comunicazione che sono trattati nella **EN 13501-6**.
 
@@ -325,6 +326,7 @@ secondo il punto 7.5.5.
 [Back to contents](#0)
 
 ### 1.9 <font color="teal">- EN 15998 (2020) - Vetro per edilizia - Sicurezza in caso di incendio, resistenza al fuoco - Metodologia di prova del vetro a scopo di classificazione</font><a id='1.9'></a>
+
 La norma specifica la metodologia di prova da utilizzare per i prodotti in vetro che dichiarano la resistenza al fuoco. La metodologia copre le prove di tipo come definito nella norma pertinente del prodotto di vetro.
 
 **NOTA**: Il presente documento fornisce una guida per la dichiarazione della caratteristica, Sicurezza in caso di incendio - Resistenza al fuoco (per il vetro da utilizzare in un assemblaggio vetrato destinato specificamente alla resistenza al fuoco) per il marchio CE.
