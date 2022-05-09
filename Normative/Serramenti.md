@@ -16,6 +16,7 @@
   - 3.3 [Ponti termici](#3.3)
   - 3.4 [Comportamento ai diversi climi](#3.4)
   - 3.5 [Proprietà radiative](#3.5)
+  - 3.6 [Condensa superficiale e interstiziale](#3.6)
 - 4 [Comfort](#4)
   - 4.1 [Performance acustiche](#4.1)
   - 4.2 [Tenuta all'acqua](#4.2)
@@ -36,6 +37,7 @@
   - 6.1 [Resistenza all'usura: cicli di apertura e chiusura](#6.1)
   - 6.2 [Durabilità](#6.2)
   - 6.3 [Classe di esposizione](#6.3)
+- 7 [Sicurezza antincendio](#7)
 
 
 [Back to contents](#0)
@@ -84,14 +86,17 @@ I risultati sono espressi in conformità alla norma **EN 13115**.
 #### <font color="orange">2.3.A EN 13115-2020: Finestre - Classificazione delle proprietà meccaniche - Racking, torsione e forze operative</font><a id='2.3.A'></a>
 
 Questo documento fornisce un mezzo per classificare le prestazioni delle finestre apribili secondo la loro forza nel resistere, se del caso, al carico di **racking**, alla **torsione statica** e alle loro **forze operative manuali**.
+
 Aspetti speciali come quelli della resistenza all'effrazione non sono coperti.
 Le tabelle 1 e 2 della presente normativa classificano le forze operanti in realzione ai massimi sforzi agenti sul serramento, le massime forze operanti nel caso di apertura tramite maniglia o apertura manuale.
+
 La tabella 3 invece classifica il serramento in base ai risultati di resistenza meccanica ottenuti con i test di racking e torsione statica, definendo 5 classi di resistenza dalla classe 0 alla classe 4.
 
 [Back to contents](#0)
 
 ##  <font color="red">3. Requisiti di prestazione energetica</font><a id='3'></a>
 ### <font color="teal">3.1 Trasmittanza termica </font><a id='3.1'></a>
+
 La trasmittanza termica per finestre (e porte esterne pedonali) deve essere determinata utilizzando:
 - **EN ISO 10077-1:2006, Tabella F.1**: Trasmittanze termiche per finestre verticali con frazione della superficie del telaio pari al 30% dell'intera superficie della finestra e tipi comuni di listelli distanziatori per vetri o
 - **EN ISO 10077-1:2006, Tabella F.3**: Trasmittanze termiche per finestre verticali con frazione della superficie del telaio pari al 30% dell'intera superficie della finestra, listelli distanziatori per vetri con prestazioni termiche migliorate e, per finestre con listelli, Allegato J
@@ -111,6 +116,7 @@ I simboli collettivi per la trasmittanza termica sono **Uw per le finestre** e *
 [Back to contents](#0)
 
 ### <font color="teal">3.2 Permeabilità all'aria </font><a id='3.2'></a>
+
 Devono essere effettuate due prove di permeabilità all'aria secondo la norma **EN 1026**: una con pressioni di prova positive e una con pressioni di prova negative.
 
 Le prove di permeabilità all'aria degli schermi sono effettuate sullo schermo o sulle sue singole parti comprese le giunzioni tra le singole parti.
@@ -141,7 +147,9 @@ Oltre alle informazioni fornite nel rapporto di prova, devono essere registrati 
   - la classificazione finale del provino.
 
 [Back to contents](#0)
+
 ### <font color="teal">3.3 Ponti termici: EN ISO 10211 </font><a id='3.3'></a>
+
 Il presente documento stabilisce le specifiche per un modello geometrico tridimensionale e bidimensionale di un ponte termico per il calcolo numerico dei:
 - flussi di calore, per valutare la perdita di calore complessiva di un edificio o di una parte di esso, e
 - temperature superficiali minime, per valutare il rischio di condensazione superficiale.
@@ -156,7 +164,9 @@ Questo documento può anche essere usato per la derivazione delle trasmittanze t
 **NOTA**: La tabella 1 nell'introduzione mostra la posizione relativa di questo documento all'interno dell'insieme delle norme EPB nel contesto della struttura modulare come stabilito nella ISO 52000-1.
 
 [Back to contents](#0)
+
 ### <font color="teal">3.4 Comportamento ai diversi climi </font><a id='3.4'></a>
+
 Un test climatico su finestre con telai fabbricati con una combinazione di materiali deve essere effettuato eseguita in conformità alla norma **EN 13420**.
 
 **NOTA**: La norma **EN 13420** può essere utilizzata per valutare le modifiche di progettazione o produzione.
@@ -164,19 +174,42 @@ Un test climatico su finestre con telai fabbricati con una combinazione di mater
 Il metodo di prova non è appropriato per scopi di controllo qualità di routine, né è applicabile a progetti ben consolidati.
 
 [Back to contents](#0)
+
 ### <font color="teal">3.5 Proprietà radiative </font><a id='3.5'></a>
+
 La determinazione della trasmittanza totale dell'energia solare (fattore solare, valore g) e della trasmittanza luminosa delle vetrate traslucide deve essere effettuata in conformità alla **EN 410**, o se pertinente, con **EN 13363-1** o **EN 13363-2**.
 
 [Back to contents](#0)
+
+### <font color="teal">3.6 Condensa superficiale e interstiziale </font><a id='3.6'></a>
+La norma di riferimento per la fase di calcolo dell'eventuale formazione di condensa è la __EN ISO 13788__: "Prestazione igrotermica dei componenti e degli elementi per edilizia - Temperatura superficiale interna per evitare l'umidita' superficiale critica e la condensazione interstiziale - Metodi di calcolo".
+
+La presente norma fornisce metodi di calcolo per determinare:
+- la temperatura superficiale interna di componenti o elementi edilizi al di sotto della quale è probabile la crescita di muffe, in funzione della temperatura e dell'umidità relative interne; il metodo può essere anche utilizzato per la previsione del rischio di altri problemi di condensazione superficiale
+- la valutazione del rischio di condensazione interstiziale dovuta alla diffusione del vapore acqueo. Il metodo usato non tiene conto di alcuni importanti fenomeni fisici quali:
+    - la variazione delle proprietà dei materiali in funzione del contenuto di umidità
+    - la risalita capillare e il trasporto di umidità allo stato liquido  all'interno dei materiali
+    - il movimento dell'aria nei componenti, attraverso fessure o intercapedini
+    - la capacità igroscopica dei materiali
+- il tempo che l'acqua, contenuta in uno strato compreso tra due strati con elevata resistenza al passaggio del vapore, impiega ad asciugare, nonché il rischio di condensazione che può verificarsi in altri strati del componente durante il processo di asciugatura.
+
+
+Di conseguenza il metodo può essere applicato solo a strutture nelle quali questi fenomeni possono essere considerati trascurabili.
+
+[Back to contents](#0)
+
 ## <font color="red">4. Comfort</font> <a id='4'></a>
 ### <font color="teal">4.1 Performance acustiche </font><a id='4.1'></a>
+
 L'isolamento acustico deve essere determinato conformemente alla norma **EN ISO 140-3** o, per tipi specifici di finestre, conformemente all'allegato B.
 
 I risultati delle prove sono valutati secondo la norma **EN ISO 717-1**.
 Il contributo di isolamento acustico dato dal serramento alla facciata di appartenenza deve essere calcolato secondo quanto contenuto nella **EN ISO 12354-3**.
 
 [Back to contents](#0)
+
 ### <font color="teal">4.2 Tenuta all'acqua </font><a id='4.2'></a>
+
 Deve essere eseguita una prova di impermeabilità in conformità alla norma **EN 1027**.
 
 I risultati sono espressi in conformità alla norma **EN 12208**.
@@ -185,7 +218,9 @@ La prova di impermeabilità delle schermature viene effettuata sulla schermatura
 In quest'ultimo caso, la designazione della schermatura è determinata dalla parte o dalle parti con la prestazione più sfavorevoli.
 
 [Back to contents](#0)
+
 #### <font color="orange">4.2.A EN 12208-2000: Finestre e porte - Impermeabilità - Classificazione</font><a id='4.2.A'></a>
+
 La norma definisce la classificazione dei risultati di test per finestre completamente assemblate (e porte) di qualsiasi materiale in accordo con la **EN 1027**.
 
 Vengono definite le classi di prestazione per la tenuta all'acqua secondo la tabella 1 nel seguente modo:
@@ -195,7 +230,9 @@ Vengono definite le classi di prestazione per la tenuta all'acqua secondo la tab
 - Pressione massima a cui il serramento è esposto.
 
 [Back to contents](#0)
+
 ### <font color="teal">4.3 Ventilazione </font><a id='4.3'></a>
+
 I dispositivi di trasferimento dell'aria integrati in una finestra o in una porta pedonale esterna devono essere testati e valutati secondo la norma **EN 13141-1**.
 I giunti e le aperture non sottoposti a prova devono essere coperti con del nastro adesivo.
 
@@ -208,12 +245,16 @@ I risultati devono includere
 **NOTA 2**: I dispositivi individuali, designati per essere installati in una finestra o in una porta pedonale esterna in un momento successivo, non sono coperti da questa norma europea.
 
 [Back to contents](#0)
+
 ## <font color="red">5. Sicurezza</font> <a id='5'></a>
 ### <font color="teal">5.1 Resistenza ai proiettili </font><a id='5.1'></a>
+
 Dopo le prove in conformità alla norma **EN 1523**, le caratteristiche di resistenza ai proiettili delle finestre e dei serramenti esterni pedonali devono essere espresse in conformità alla norma **EN 1522**.
 
 [Back to contents](#0)
+
 #### <font color="orange">5.1.A EN 1522-2000: Finestre, porte, persiane e tende - Resistenza ai proiettili - Requisiti e classificazione</font><a id='5.1.A'></a>
+
 Questa norma definisce i requisiti e la
 classificazione che finestre, porte, persiane e tapparelle
 devono soddisfare quando vengono testati in conformità alla norma **EN 1523**.
@@ -239,10 +280,14 @@ rappresenta la più bassa resistenza alla perforazione, e la classe FB7
 la più alta, ad esempio FB4 comprende FB3, FB2, FB1 e, se necessario, l'istituto di prova deve condurre ulteriori prove aggiuntive nelle classi inferiori per confermarlo.
 
 [Back to contents](#0)
+
 ### <font color="teal">5.2 Resistenza alle esplosioni </font><a id='5.2'></a>
 #### Prova "shock tube"
+
 Dopo le prove in conformità alla norma **EN 13124-1**, le caratteristiche di resistenza alle esplosioni delle finestre e delle porte pedonali esterne devono essere espresse in conformità alla norma **EN 13123-1**.
+
 ##### <font color="orange">5.2.A EN 13123-2001: Finestre, porte e persiane - Resistenza all'esplosione - Requisiti e classificazione - Parte 1: Shock tube</font><a id='5.2.A'></a>
+
 Questa norma europea specifica i criteri che finestre, porte e persiane devono soddisfare per ottenere una classificazione quando sono sottoposti al metodo di prova descritto nella norma **EN 13124-1**.
 
 La presente norma europea riguarda un metodo di prova contro le onde d'urto generate utilizzando un tubo d'urto per simulare la detonazione di un grosso esplosivo dell'ordine di 100 kg a 2 500 kg di TNT a distanze da circa 35 m a 50 m.
@@ -257,9 +302,13 @@ I valori da EPR1 a EPR4 riportati nella tabella 1 definiscono le classi di resis
 Quando un finestrino, una porta o una persiana raggiunge una determinata classe, automaticamente sono rispettate tutte le classi inferiori.
 
 [Back to contents](#0)
+
 #### "Range test"
+
 Dopo le prove in conformità alla norma **EN 13124-2**, le caratteristiche di resistenza all'esplosione di finestre e porte esterne pedonali devono essere espresse secondo la norma **EN 13123-2**.
+
 ##### <font color="orange">5.2.B EN 13123-2004: Finestre, porte e persiane - Resistenza all'esplosione - Requisiti e classificazione - Parte 2: Range test</font><a id='5.2.B'></a>
+
 Questa norma europea specifica i criteri che finestre, porte e persiane devono soddisfare per ottenere una
 classificazione quando sono sottoposti al metodo di prova descritto nella norma **EN 13124-2**.
 
@@ -277,9 +326,13 @@ La presente norma europea non fornisce alcuna informazione sulla capacità di re
 I valori da EXR1 a EXR5 presenti in tabella 1 definiscono le classi di resistenza all'esplosione mettendo in relazione la carica totale dell'esplosivo (massa) e la distanza da cui viene fatto brillare. Quando una finestra, porta o persiana raggiunge una determinata classe, automaticamente anche tutte le classi inferiori sono rispettate.
 
 [Back to contents](#0)
+
 ### <font color="teal">5.3 Resistenza agli urti </font><a id='5.3'></a>
+
 Le finestre (e le porte pedonali estern)e dotate di vetro o altro materiale frammentario devono essere testati e i risultati sono espressi in conformità alla norma **EN 13049**. Se necessario, la prova deve essere effettuata da entrambi i lati.
+
 #### <font color="orange">5.3.A EN 13049-2003: Finestre - Morbido e impatto pesante del corpo - Metodo di prova, requisiti di sicurezza e classificazione</font><a id='5.3.A'></a>
+
 Questa norma europea specifica il metodo di prova, i requisiti di sicurezza e la classificazione quando si determina l'effetto su una finestra impattata con un corpo morbido e pesante.
 
 Qualsiasi anta mobile secondaria, battente o luce fissa che possono essere montati internamente alle ante o ai battenti principali, devono essere testati allo stesso modo.
@@ -299,9 +352,13 @@ elementi di fissaggio o di riempimento, né alcuna delle sue parti composte deve
 Dalla tabella 1 si evincono di fatto le classi di resistenza dalla 1 alla 5 in relazione all'altezza da cui viene lasciato cadere il corpo necessario per l'impatto.
 
 [Back to contents](#0)
+
 ### <font color="teal">5.4 Resistenza all'effrazione </font><a id='5.4'></a>
+
 Dopo le prove in conformità a **EN 1628**, **EN 1629** e **EN 1630** i risultati devono essere espressi in secondo la norma **EN 1627**.
+
 #### <font color="orange">5.4.A EN 1627-2011: Porte pedonali, finestre, facciate continue, griglie e persiane - Resistenza allo scasso - Requisiti e classificazione</font><a id='5.4.A'></a>
+
 Questa norma europea specifica i requisiti e i sistemi di classificazione per le caratteristiche antieffrazione di porte pedonali, finestre, facciate continue, griglie e persiane.
 
 È applicabile a i seguenti mezzi di apertura: a rotazione, a ribalta, a libro, a battente, a sospensione dall'alto o dal basso, a scorrimento (orizzontalmente e verticalmente) e avvolgibili così come le strutture fisse.
@@ -327,12 +384,110 @@ Quando più lastre di vetro sono utilizzate in un prodotto, ad esempio unità di
 Le classi di resistenza all'effrazione del serramento e delle sue parti variano dalla RC1 alla RC6 ed esse determinano le classi di resistenza di ogni suo componente (vetro, fissaggi, etc..)
 
 [Back to contents](#0)
+
 ### <font color="teal">5.5 Rilascio di sostanze pericolose </font><a id='5.5'></a>
-Nella misura in cui lo stato dell'arte lo permette, il fabbricante deve stabilire i materiali del prodotto
-che sono suscettibili di emissione o rilascio durante l'uso normale previsto e per i quali l'emissione o il rilascio di sostanze nell'ambiente è potenzialmente pericolosa per l'igiene, la salute o l'ambiente stesso.
+
+Nella misura in cui lo stato dell'arte lo permette, il fabbricante deve stabilire i materiali del prodotto che sono suscettibili di emissione o rilascio durante l'uso normale previsto e per i quali l'emissione o il rilascio di sostanze nell'ambiente è potenzialmente pericolosa per l'igiene, la salute o l'ambiente stesso.
 
 Il produttore deve stabilire e rilasciare l'appropriata dichiarazione di contenuto secondo i requisiti di legge nel paese di destinazione previsto.
 
 [Back to contents](#0)
+
 ## <font color="red">6. Manutenzione</font> <a id='6'></a>
 ### <font color="teal">6.1 Resistenza all'usura: cicli di apertura e chiusura </font><a id='6.1'></a>
+
+Il test ciclico di apertura e chiusura deve essere eseguito in accordo con la **EN 1191**. I risultati devono essere espressi in accordo con la **EN 12400**.
+
+#### <font color="orange"> 6.1.A EN 12400-2002: Finestre e porte pedonali - Durabilità meccanica - Requisiti e classificazione</font><a id='6.1.A'></a>
+
+Questa norma europea specifica un criterio di classificazione delle finestre apribili e delle porte pedonali in base alle
+prestazioni quando sono soggette a ripetute aperture e chiusure. Le classi tengono conto dell'uso normale e previsto.
+
+Secondo la tabella 1, le finestre possono essere classificate nel seguente modo:
+  - Classe 1 (resistenza a 5000 cicli di apertura)
+  - Classe 2 (resistenza a 10000 cicli di apertura)
+  - Classe 3 (resistenza a 20000 cicli di apertura)
+
+[Back to contents](#0)
+
+### <font color="teal">6.2 Durabilità </font><a id='6.2'></a>
+
+Il produttore deve provvedere a fornire informazioni riguardo alla manutenzione del serramento e le parti che possono essere sostituite nel periodo di vita utile del prodotto.
+
+Il produttore deve dichiarare il o i materiali che compongono il prodotto inclusi ogni tipo di rivestimento e/o protezione.
+Questo si applica a tutti i componenti che hanno un impatto sulla
+sulla durata del prodotto nell'uso previsto, ad eccezione di quei componenti che sono conformi ai singoli
+standard di prodotto ( fissaggi, guarnizioni). Ove possibile, ciò deve essere fatto con riferimento alle norme europee.
+In base alla scelta adeguata dei materiali (compresi i rivestimenti, le conservazioni, la composizione e lo
+spessore), dei componenti e dei metodi di montaggio, il produttore deve garantire la durata del suo
+prodotto(i) per una durata di vita economicamente ragionevole, tenendo conto delle sue indicazioni di manutenzione pubblicate.
+
+__NOTA__: La durata delle finestre e delle porte pedonali esterne dipende dalle prestazioni a lungo termine dei singoli componenti e materiali, nonché dal montaggio del prodotto e dalla sua manutenzione.
+Le specifiche e le classificazioni dei singoli materiali e componenti si trovano nelle rispettive norme di riferimento.
+
+La durata di alcune caratteristiche deve essere garantita come segue:
+ - _impermeabilità all'acqua e tenuta all'aria_
+
+ La durata di queste caratteristiche dipende principalmente dalle guarnizioni di tenuta che devono essere sostituibili.
+
+ - _trasmittanza termica_
+
+ La durata di questa caratteristica è legata principalmente alle
+prestazioni a lungo termine delle vetrate (in particolare le Insulated Glass Units (IGU)). Il vetro che soddisfa i requisiti
+delle norme identificate nell'__allegato C__ sono considerate conformi ai requisiti di durabilità.
+
+[Back to contents](#0)
+
+### <font color="teal">6.3 Classe di esposizione </font><a id='6.3'></a>
+
+[Back to contents](#0)
+
+## <font color="red">7. Sicurezza antincendio</font> <a id='7'></a>
+
+I materiali utilizzati nelle finestre per tetti devono essere testati e classificati secondo la norma __EN 13501-1__
+e all'allegato H per la selezione, la preparazione, il montaggio e il fissaggio e il campo di applicazione diretta delle finestre per tetti.
+
+Le finestre per tetti devono essere testate e classificate secondo la norma __EN 13501-5__.
+
+### <font color="teal">7.1 EN 16034:2014 - Porte pedonali, porte industriali, commerciali, da garage e finestre apribili - Norma di prodotto, caratteristiche prestazionali - Caratteristiche di resistenza al fuoco e/o controllo del fumo </font><a id='7.1'></a>
+
+La presente norma europea identifica i requisiti, indipendentemente dai materiali costituenti il prodotto, di sicurezza e di prestazione applicabili a
+tutti i prodotti adibiti alla resistenza al fuoco e/o di controllo del fumo destinati ad essere utilizzati nella compartimentazione
+e/o lungo le vie di fuga, che siano:
+- porte industriali, commerciali e/o da garage, serrande o tende in tessuto apribili destinate all'installazione in aree a portata di mano delle persone e per le quali gli usi principali previsti sono di dare un accesso sicuro a merci e veicoli;
+
+- le tapparelle o le tende in tessuto apribili, utilizzate nei locali per la vendita al dettaglio che sono principalmente destinate
+l'accesso delle persone piuttosto che dei veicoli o delle merci;
+
+- le porte pedonali e/o le finestre apribili e/o le botole di ispezione incernierate o scorrevoli,
+destinati ad essere installati in zone alla portata delle persone e i cui principali usi previsti sono
+dare un accesso sicuro alle persone
+
+
+Le caratteristiche del prodotto coperte da EN 13241-1, EN 14351-1, prEN 14351-2 o EN 16361 non compromettono
+le caratteristiche di resistenza al fuoco e/o di controllo del fumo di un prodotto adibito alla sicurezza antincendio.
+
+__NOTA 1__: I requisiti inclusi nella EN 14351-1, prEN 14351-2, EN 13241-1 o EN 16361 potrebbero essere rilevanti per i
+prodotti coperti da questa norma.
+Questa norma fornisce anche indicazioni sulle modifiche del prodotto che non influenzano le prestazioni dei
+prodotti interessati.
+
+__NOTA 2__: I requisiti e le regole per le variazioni (riguardanti il campo di applicazione diretto ed esteso) delle porte antincendio
+resistenza al fuoco e/o controllo del fumo sono riportati nella serie EN 15269 e nelle EN 1634-1 e EN 1634-3, supportate da,
+ad esempio, EN 16035.
+
+[Back to contents](#0)
+
+#### <font color="orange"> 7.1.A Resistenza al fuoco</font><a id='7.1.A'></a>
+
+La capacità dei prodotti coperti da questa norma di fornire "integrità" (E), "integrità e isolamento" (EI1,
+EI2) o "integrità e radiazione" (EW) per un certo periodo di tempo in caso di incendio è testata secondo 5.1
+e i risultati sono classificati secondo la norma __EN 13501-2__.
+
+[Back to contents](#0)
+
+#### <font color="orange"> 7.1.B Controllo fumo</font><a id='7.1.B'></a>
+
+La capacità dei prodotti coperti da questa norma di impedire la fuoriuscita di fumo a media temperatura
+(S200) o la fuoriuscita di fumo a temperatura ambiente (Sa) in caso di fumo è testata secondo 5.2 e
+i risultati sono classificati secondo la norma __EN 13501-2__.
