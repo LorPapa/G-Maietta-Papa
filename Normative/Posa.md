@@ -33,6 +33,7 @@ delle performance del metodo "POSA CLIMA" (pp.14-19)
  **Due tipi di giunti**:
  1. Il giunto primario tra vano murario e controtelaio **(rosso)**
  2. Giunto secondario tra controtelaio e telaio **(verde)**
+ 
  ![](https://github.com/LorPapa/G-Maietta-Papa/blob/main/Normative/Image/Cattura.JPG?raw=true)
 
  Entrambi i Giunti devono essere divisi in **3 piani funzionali**:
@@ -48,6 +49,7 @@ delle performance del metodo "POSA CLIMA" (pp.14-19)
  del nodo
 
  ![](https://github.com/LorPapa/G-Maietta-Papa/blob/main/Normative/Image/Piani%20funzionali.JPG?raw=true)
+
   - **Cap-5** Criteri e requisiti specifici del giunto di posa
   - Cap-5.1 Isolamento termico, per evitare dispersioni,condensa e muffa.
  Dipendono da tre fattori:
