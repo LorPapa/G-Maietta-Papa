@@ -22,6 +22,7 @@
   - 4.2 [Tenuta all'acqua](#4.2)
     - 4.2.A [EN 12208-2000](#4.2.A)
   - 4.3 [Ventilazione](#4.3)
+  - 4.4 [Illuminazione Naturale](#4.4)
 - 5 [Sicurezza](#5)
   - 5.1 [Resistenza ai proiettili](#5.1)
     - 5.1.A [EN 1522-2000](#5.1.A)
@@ -243,6 +244,24 @@ I risultati devono includere
 **NOTA 1**: Possono essere indicate altre differenze di pressione. La portata d'aria qv deve essere determinata come segue: qv = K (Δp)n dove K è la caratteristica del flusso d'aria del dispositivo; n è l'esponente del flusso; Δp è la differenza di pressione.
 
 **NOTA 2**: I dispositivi individuali, designati per essere installati in una finestra o in una porta pedonale esterna in un momento successivo, non sono coperti da questa norma europea.
+
+[Back to contents](#0)
+
+### <font color="teal">4.4 Illuminazione Naturale </font><a id='4.4'></a>
+
+Uno dei principali scopi del serramento è il permettere il passaggio della luce naturale attraverso la sua superficie vetrata. Le principali leggi e normative illuminotecniche possono essere dunque descritte.
+
+[Back to contents](#0)
+
+#### <font color="orange">4.4.A D.M. del 5 luglio 1975 modificazioni alle istruzioni ministeriali 20 Giugno 1896 relativamente all'altezza minima ed ai requisiti igienico sanitari principali dei locali di abitazione.</font><a id='5.1.A'></a>
+
+All'interno del documento siamo interessati solo all'articolo 5 che definisce la ben nota relazione per il rapporto Aeroilluminante rispetto alla superfice pavimentata.
+
+[Back to contents](#0)
+
+#### <font color="orange">4.4.B EN 17037 Daylight in buildings</font><a id='5.1.A'></a>
+
+La normativa definisce dei metodi di calcolo e di modellazione per valutare il livello di illuminazione diurno all'interno degli spazi dell'edificio. Il serramento deve dunque essere adeguatamente dimensionato e la scelta dei materiali deve essere conforme alla qualità di illuminazione richiesta.
 
 [Back to contents](#0)
 
