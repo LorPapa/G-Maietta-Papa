@@ -40,6 +40,7 @@
   - 6.3 [Classe di esposizione](#6.3)
 - 7 [Sicurezza antincendio](#7)
 - 8 [UNI 8290-Edilizia Residenziale Sistema Tecnologico Analisi Requisiti](#8)
+- 9 [UNI 10818:2015 Finestre ruoli responsabilità e indicazioni contrattuali nella posa in opera](#9)
 
 [Back to contents](#0)
 ## <font color="red">1. Scopo</font> <a id='1'></a>
@@ -515,4 +516,10 @@ i risultati sono classificati secondo la norma __EN 13501-2__.
 
 ## <font color="red">8 UNI 8290-Edilizia Residenziale Sistema Tecnologico Analisi Requisiti</font> <a id='8'></a>
 
-Questa normativa fornisce una classificazione dei componenti tecnologici edilizi e nelle varie parti si mostrano i possibili requisiti da associarvi e gli agenti che potranno causare guasti.
+Questa normativa fornisce una classificazione dei componenti tecnologici edilizi e nelle varie parti si mostrano i possibili requisiti da associarvi e gli agenti che potrebbero causare guasti.
+
+[Back to contents](#0)
+
+## <font color="red">9 UNI 10818:2015 Finestre ruoli responsabilità e indicazioni contrattuali nella posa in opera</font> <a id='9'></a>
+
+Da questa normativa è possibile individuare gli obblighi assegnati alle varie figure del processo edilizio, viene dunque analizzata la figura del progettista nella lista delle verifiche da attuare.
