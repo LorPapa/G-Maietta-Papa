@@ -39,7 +39,7 @@
   - 6.2 [Durabilità](#6.2)
   - 6.3 [Classe di esposizione](#6.3)
 - 7 [Sicurezza antincendio](#7)
-
+- 8 [UNI 8290-Edilizia Residenziale Sistema Tecnologico Analisi Requisiti](#8)
 
 [Back to contents](#0)
 ## <font color="red">1. Scopo</font> <a id='1'></a>
@@ -510,3 +510,9 @@ e i risultati sono classificati secondo la norma __EN 13501-2__.
 La capacità dei prodotti coperti da questa norma di impedire la fuoriuscita di fumo a media temperatura
 (S200) o la fuoriuscita di fumo a temperatura ambiente (Sa) in caso di fumo è testata secondo 5.2 e
 i risultati sono classificati secondo la norma __EN 13501-2__.
+
+[Back to contents](#0)
+
+## <font color="red">8 UNI 8290-Edilizia Residenziale Sistema Tecnologico Analisi Requisiti</font> <a id='8'></a>
+
+Questa normativa fornisce una classificazione dei componenti tecnologici edilizi e nelle varie parti si mostrano i possibili requisiti da associarvi e gli agenti che potranno causare guasti.
