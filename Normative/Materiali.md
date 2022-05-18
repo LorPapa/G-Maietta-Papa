@@ -84,6 +84,7 @@ La norma tratta la valutazione della conformità e il controllo della produzione
 [Back to contents](#0)
 
 ### 1.2<font color="teal"> - EN ISO 12543 - Vetro stratificato e vetro stratificato di sicurezza </font><a id='1.2'></a>
+
 - #### Parte 1 (2021): Vetro stratificato e vetro stratificato di sicurezza. Definizioni e descrizioni delle parti componenti
 La norma ha lo scopo di definire i termini e descrivere le parti che compongono il vetro stratificato e vetro stratificato di sicurezza per l'edilizia.
 
@@ -118,6 +119,7 @@ La norma specifica le dimensioni, gli scostamenti limite e le finiture dei bordi
 [Back to contents](#0)
 
 ### 1.3<font color="teal"> - EN 1863 - Vetro per l'edilizia indurito termicamente</font><a id='1.3'></a>
+
 - #### Parte 1 (2011): Definizioni e descrizione del vetro indurito termicamente
 La norma ha lo scopo di specificare per singole lastre di vetro a base sodo-calcico indurito termicamente **di spessore nominale dai 3 mm ai 12 mm** usato in edilizia secondo le seguenti caratteristiche:
  - Tolleranze
@@ -136,6 +138,7 @@ La norma ha lo scopo di definire la valutazione della conformità e il controllo
 [Back to contents](#0)
 
 ### 1.4<font color="teal"> - EN 12150 - Vetro per l'edilizia temprato termicamente</font><a id='1.4'></a>
+
 - #### Parte 1 (2019): Definizioni e descrizione del vetro temprato termicamente
 La norma ha lo scopo di specificare per singole lastre di vetro a base sodo-calcico temprato termicamente usato in edilizia secondo le seguenti caratteristiche:
  - Tolleranze
@@ -154,6 +157,7 @@ La norma ha lo scopo di definire la valutazione della conformità e il controllo
 [Back to contents](#0)
 
 ### 1.5 <font color="teal">- EN 12337 - Vetro per l'edilizia indurito chimicamente</font><a id='1.5'></a>
+
 - #### Parte 1 (2000): Definizioni e descrizione del prodotto
 La norma ha lo scopo di specificare, per il vetro silicato a base sodo-calcico indurito chimicamente, le seguenti caratteristiche:
  - Tolleranze
@@ -173,6 +177,7 @@ La norma ha lo scopo di specificare, per il vetro silicato a base sodo-calcico i
 [Back to contents](#0)
 
 ### 1.6 <font color="teal">- EN 1279 - Vetro isolante</font><a id='1.6'></a>
+
  - #### Parte 1 (2018): Generalità, descrizione del sistema, regole per la sostituzione, tolleranze e qualità per la visibilità
  La norma (in questa parte e nelle successive) ha lo scopo di definire i requisiti che devono avere prodotti in vetro isolante. Il principale utilizzo di questi vetri avviene nelle seguenti applicazioni edilizie:
   - **finestre**

@@ -37,7 +37,6 @@
 - 6 [Manutenzione](#6)
   - 6.1 [Resistenza all'usura: cicli di apertura e chiusura](#6.1)
   - 6.2 [Durabilità](#6.2)
-  - 6.3 [Classe di esposizione](#6.3)
 - 7 [Sicurezza antincendio](#7)
 - 8 [UNI 8290-Edilizia Residenziale Sistema Tecnologico Analisi Requisiti](#8)
 - 9 [UNI 10818:2015 Finestre ruoli responsabilità e indicazioni contrattuali nella posa in opera](#9)
@@ -64,12 +63,14 @@ Il produttore deve fornire informazioni sul tamponamento sufficienti a consentir
 **NOTA**: Quando esistono norme europee appropriate, la determinazione della capacità portante deve essere effettuata come prescritto in tali norme europee.
 
 [Back to contents](#0)
+
 #### <font color="orange"> 2.1.A EN 12210-2016: Finestre e porte - Resistenza al carico del vento - Classificazione</font><a id='2.1.A'></a>
 Questa norma europea definisce la classificazione dei risultati dei test per finestre e porte completamente assemblate di qualsiasi materiale dopo il test in conformità alla norma **EN 12211**.
 
 Il capitolo 7 della presente norma classifica il serramento mettendo in relazione la classe del carico da vento (classi 1-5) con la classe di deflessione del serramento stesso (classi A-E) come da tabella n° 3.
 
 [Back to contents](#0)
+
 ### <font color="teal">2.2 Resistenza al carico da neve e carichi permanenti</font><a id='2.2'></a>
 Il produttore deve fornire informazioni sufficienti sul tamponamento per consentire la determinazione della
 capacità portante del tamponamento stesso, ad esempio informazioni sullo **spessore** e sul **tipo di vetro**.
@@ -78,6 +79,7 @@ capacità portante del tamponamento stesso, ad esempio informazioni sullo **spes
 dovrebbe essere effettuata come prescritto in tali norme europee.
 
 [Back to contents](#0)
+
 ### <font color="teal">2.3 Resistenza meccanica</font><a id='2.3'></a>
 Le finestre devono essere testate in conformità alle norme **EN 14608** e **EN 14609**.
 Prima e dopo tali prove le finestre ad azionamento manuale sono testate in conformità alla norma **EN 12046-1**.
@@ -184,6 +186,7 @@ La determinazione della trasmittanza totale dell'energia solare (fattore solare,
 [Back to contents](#0)
 
 ### <font color="teal">3.6 Condensa superficiale e interstiziale </font><a id='3.6'></a>
+
 La norma di riferimento per la fase di calcolo dell'eventuale formazione di condensa è la __EN ISO 13788__: "Prestazione igrotermica dei componenti e degli elementi per edilizia - Temperatura superficiale interna per evitare l'umidita' superficiale critica e la condensazione interstiziale - Metodi di calcolo".
 
 La presente norma fornisce metodi di calcolo per determinare:
@@ -455,10 +458,6 @@ La durata di alcune caratteristiche deve essere garantita come segue:
  La durata di questa caratteristica è legata principalmente alle
 prestazioni a lungo termine delle vetrate (in particolare le Insulated Glass Units (IGU)). Il vetro che soddisfa i requisiti
 delle norme identificate nell'__allegato C__ sono considerate conformi ai requisiti di durabilità.
-
-[Back to contents](#0)
-
-### <font color="teal">6.3 Classe di esposizione </font><a id='6.3'></a>
 
 [Back to contents](#0)
 
